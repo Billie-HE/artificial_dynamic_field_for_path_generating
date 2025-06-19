@@ -1,0 +1,1051 @@
+{
+    "崇骨": {
+        "pos": [
+            4,
+            25
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": true,
+        "group": "肩部"
+    },
+    "大椎": {
+        "pos": [
+            4,
+            24
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": true,
+        "group": "肩部"
+    },
+    "肩中左俞": {
+        "pos": [
+            3,
+            23
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "肩部"
+    },
+    "肩中右俞": {
+        "pos": [
+            5,
+            23
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "肩部"
+    },
+    "肩外左俞": {
+        "pos": [
+            2,
+            22
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "肩部"
+    },
+    "肩外右俞": {
+        "pos": [
+            6,
+            22
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "肩部"
+    },
+    "秉风左": {
+        "pos": [
+            1,
+            21
+        ],
+        "importance": 0.8,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "肩部"
+    },
+    "曲垣左": {
+        "pos": [
+            2,
+            21
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "肩部"
+    },
+    "大杼左": {
+        "pos": [
+            3,
+            21
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "肩部"
+    },
+    "陶道": {
+        "pos": [
+            4,
+            21
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": true,
+        "group": "肩部"
+    },
+    "大杼右": {
+        "pos": [
+            5,
+            21
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "肩部"
+    },
+    "曲垣右": {
+        "pos": [
+            6,
+            21
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "肩部"
+    },
+    "秉风右": {
+        "pos": [
+            7,
+            21
+        ],
+        "importance": 0.8,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "肩部"
+    },
+    "附分左": {
+        "pos": [
+            2,
+            20
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "肩部"
+    },
+    "风门左": {
+        "pos": [
+            3,
+            20
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "肩部"
+    },
+    "风门右": {
+        "pos": [
+            5,
+            20
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "肩部"
+    },
+    "附分右": {
+        "pos": [
+            6,
+            20
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "肩部"
+    },
+    "魄户左": {
+        "pos": [
+            2,
+            19
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "肺俞左": {
+        "pos": [
+            3,
+            19
+        ],
+        "importance": 0.8,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "身柱": {
+        "pos": [
+            4,
+            19
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": true,
+        "group": "全身"
+    },
+    "肺俞右": {
+        "pos": [
+            5,
+            19
+        ],
+        "importance": 0.8,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "魄户右": {
+        "pos": [
+            6,
+            19
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "天宗左": {
+        "pos": [
+            1,
+            18
+        ],
+        "importance": 0.8,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "膏肓左": {
+        "pos": [
+            2,
+            18
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "厥阴左俞": {
+        "pos": [
+            3,
+            18
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "厥阴右俞": {
+        "pos": [
+            5,
+            18
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "膏肓右": {
+        "pos": [
+            6,
+            18
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "天宗右": {
+        "pos": [
+            7,
+            18
+        ],
+        "importance": 0.8,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "神堂左": {
+        "pos": [
+            2,
+            17
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "心俞左": {
+        "pos": [
+            3,
+            17
+        ],
+        "importance": 0.8,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "神道": {
+        "pos": [
+            4,
+            17
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": true,
+        "group": "全身"
+    },
+    "心俞右": {
+        "pos": [
+            5,
+            17
+        ],
+        "importance": 0.8,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "神堂右": {
+        "pos": [
+            6,
+            17
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "譩譆左": {
+        "pos": [
+            2,
+            16
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "督俞左": {
+        "pos": [
+            3,
+            16
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "灵台": {
+        "pos": [
+            4,
+            16
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": true,
+        "group": "全身"
+    },
+    "督俞右": {
+        "pos": [
+            5,
+            16
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "譩譆右": {
+        "pos": [
+            6,
+            16
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "膈关左": {
+        "pos": [
+            2,
+            15
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "膈俞左": {
+        "pos": [
+            3,
+            15
+        ],
+        "importance": 0.8,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "至阳": {
+        "pos": [
+            4,
+            15
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": true,
+        "group": "全身"
+    },
+    "膈俞右": {
+        "pos": [
+            5,
+            15
+        ],
+        "importance": 0.8,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "膈关右": {
+        "pos": [
+            6,
+            15
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "魂门左": {
+        "pos": [
+            2,
+            14
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "肝俞左": {
+        "pos": [
+            3,
+            14
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "筋缩": {
+        "pos": [
+            4,
+            14
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": true,
+        "group": "全身"
+    },
+    "肝俞右": {
+        "pos": [
+            5,
+            14
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "魂门右": {
+        "pos": [
+            6,
+            14
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "阳纲左": {
+        "pos": [
+            2,
+            13
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "胆俞左": {
+        "pos": [
+            3,
+            13
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "中枢": {
+        "pos": [
+            4,
+            13
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": true,
+        "group": "全身"
+    },
+    "胆俞右": {
+        "pos": [
+            5,
+            13
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "阳纲右": {
+        "pos": [
+            6,
+            13
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "意舍左": {
+        "pos": [
+            2,
+            12
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "脾俞左": {
+        "pos": [
+            3,
+            12
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "脊中": {
+        "pos": [
+            4,
+            12
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": true,
+        "group": "全身"
+    },
+    "脾俞右": {
+        "pos": [
+            5,
+            12
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "意舍右": {
+        "pos": [
+            6,
+            12
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "胃仓左": {
+        "pos": [
+            2,
+            11
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "胃俞左": {
+        "pos": [
+            3,
+            11
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "胃俞右": {
+        "pos": [
+            5,
+            11
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "胃仓右": {
+        "pos": [
+            6,
+            11
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "肓门左": {
+        "pos": [
+            2,
+            10
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "三焦左俞": {
+        "pos": [
+            3,
+            10
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "悬枢": {
+        "pos": [
+            4,
+            10
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": true,
+        "group": "全身"
+    },
+    "三焦右俞": {
+        "pos": [
+            5,
+            10
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "肓门右": {
+        "pos": [
+            6,
+            10
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "京门左": {
+        "pos": [
+            1,
+            9
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "志室左": {
+        "pos": [
+            2,
+            9
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "肾俞左": {
+        "pos": [
+            3,
+            9
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "命门": {
+        "pos": [
+            4,
+            9
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": true,
+        "group": "全身"
+    },
+    "肾俞右": {
+        "pos": [
+            5,
+            9
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "志室右": {
+        "pos": [
+            6,
+            9
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "京门右": {
+        "pos": [
+            7,
+            9
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "气海左俞": {
+        "pos": [
+            3,
+            8
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "气海右俞": {
+        "pos": [
+            5,
+            8
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "全身"
+    },
+    "大肠左俞": {
+        "pos": [
+            3,
+            7
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "腰部"
+    },
+    "腰阳关": {
+        "pos": [
+            4,
+            7
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": true,
+        "group": "腰部"
+    },
+    "大肠右俞": {
+        "pos": [
+            5,
+            7
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "腰部"
+    },
+    "关元左俞": {
+        "pos": [
+            3,
+            6
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "腰部"
+    },
+    "关元右俞": {
+        "pos": [
+            5,
+            6
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "腰部"
+    },
+    "小肠左俞": {
+        "pos": [
+            3,
+            5
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "腰部"
+    },
+    "小肠右俞": {
+        "pos": [
+            5,
+            5
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "腰部"
+    },
+    "胞肓左": {
+        "pos": [
+            2,
+            4
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "腰部"
+    },
+    "膀胱左俞": {
+        "pos": [
+            3,
+            4
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "腰部"
+    },
+    "膀胱右俞": {
+        "pos": [
+            5,
+            4
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "腰部"
+    },
+    "胞肓右": {
+        "pos": [
+            6,
+            4
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "腰部"
+    },
+    "中膂左俞": {
+        "pos": [
+            3,
+            3
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "腰部"
+    },
+    "中膂右俞": {
+        "pos": [
+            5,
+            3
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "腰部"
+    },
+    "秩边左": {
+        "pos": [
+            2,
+            2
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "腰部"
+    },
+    "白环左俞": {
+        "pos": [
+            3,
+            2
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "腰部"
+    },
+    "白环右俞": {
+        "pos": [
+            5,
+            2
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "腰部"
+    },
+    "秩边右": {
+        "pos": [
+            6,
+            2
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "腰部"
+    },
+    "会阳左": {
+        "pos": [
+            3,
+            1
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "腰部"
+    },
+    "会阳右": {
+        "pos": [
+            5,
+            1
+        ],
+        "importance": 0.2,
+        "pressure": "medium",
+        "duration": 3,
+        "forbidden": false,
+        "group": "腰部"
+    },
+    "左起点": {"pos": [3, 23], "importance": 1, "forbidden": false},
+    "左终点": {"pos": [3, 9], "importance": 1, "forbidden": false},
+    "右起点": {"pos": [5, 23], "importance": 1, "forbidden": false},
+    "右终点": {"pos": [5, 9], "importance": 1, "forbidden": false}
+}
