@@ -8,7 +8,8 @@ GOAL = (7, 7)
 TOTAL_STEPS = 50
 
 # ======================= 高斯场调度器 ======================= #
-class GaussianSchedule:
+# 点状高斯源
+class GaussianSchedule:          
     """单个高斯场随时间演化的调度"""
     def __init__(self, center, height_fn, sigma):
         self.center = np.array(center)
@@ -23,7 +24,7 @@ class GaussianSchedule:
         sigma = self.sigma_fn(t)
         return height * np.exp(-d2 / (2 * sigma**2))  # type: ignore
 
-
+# 路径状高斯源（沿线段）
 class GaussianPathSchedule:
     def __init__(self, start, end, height_fn, sigma):
         self.start = np.array(start)
@@ -55,6 +56,7 @@ class GaussianPathSchedule:
 
         return height * np.exp(-dist2 / (2 * sigma**2)) #type: ignore
 
+# 带时间窗口的高斯源
 class TimedGaussianSchedule:
     def __init__(self, center, height_fn, sigma, t_start=0, t_end=float('inf'), hold_final=False):
         self.center = np.array(center)
@@ -79,6 +81,7 @@ class TimedGaussianSchedule:
         sigma = self.sigma_fn(t)
         return height * np.exp(-d2 / (2 * sigma**2)) #type: ignore
 
+# 势场叠加器
 class FieldScheduler:
     """管理多个高斯 schedule 并叠加形成总势场"""
     def __init__(self, schedules, base_height=10):
@@ -157,7 +160,7 @@ def main():
     schedule_list = [
     TimedGaussianSchedule(
         center=START,
-        height_fn=lambda t: -5 * (1 - (t - 0) / 20),
+        height_fn=lambda t: -8 * (1 - (t - 0) / 20),
         sigma=1.5,
         t_start=0,
         t_end=20,
@@ -165,7 +168,7 @@ def main():
     ),
     TimedGaussianSchedule(
         center=GOAL,
-        height_fn=lambda t: -5 * ((t - 30) / 20),
+        height_fn=lambda t: -8 * ((t - 30) / 20),
         sigma=1.5,
         t_start=30,
         t_end=50,
@@ -174,14 +177,14 @@ def main():
     GaussianPathSchedule(
         start=START,
         end=GOAL,
-        height_fn=lambda t: -5,
+        height_fn=lambda t: -3,
         sigma=1.5
     )
     ]
 
     
 
-    field_scheduler = FieldScheduler(schedule_list, base_height=10)
+    field_scheduler = FieldScheduler(schedule_list, base_height=0)
     agent = Agent(START)
     vis = Visualizer(START, GOAL)
 

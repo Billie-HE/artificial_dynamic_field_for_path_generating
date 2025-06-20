@@ -51,7 +51,6 @@ class GaussianSchedule:
         sigma = self.sigma_fn(t)
         return height * np.exp(-d2 / (2 * sigma**2))  # type: ignore
 
-
 class GaussianPathSchedule:
     def __init__(self, start, end, height_fn, sigma):
         self.start = np.array(start)
@@ -213,22 +212,22 @@ def plan_segment(start, goal, agent_path_accum, vis):
             height_fn=lambda t: -5 * (1 - (t / 20)),
             sigma=1.5,
             t_start=0,
-            t_end=20,
+            t_end=15,
             hold_final=True
         ),
         TimedGaussianSchedule(
             center=goal,
             height_fn=lambda t: -5 * (t / 20),
             sigma=1.5,
-            t_start=30,
-            t_end=50,
+            t_start=25,
+            t_end=40,
             hold_final=True
         ),
         GaussianPathSchedule(
             start=start,
             end=goal,
             height_fn=lambda t: -3,
-            sigma=1.5
+            sigma=1.0
         )
     ]
 
@@ -265,7 +264,6 @@ def main():
 
     # 不自动关闭窗口，等用户手动关闭
     input("按回车键退出可视化...")
-
 
 if __name__ == "__main__":
     main()
