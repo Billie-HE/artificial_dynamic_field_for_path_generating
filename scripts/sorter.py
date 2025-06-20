@@ -4,14 +4,6 @@ import json
 class sorter:
     ''' 重点穴位按摩排列器 '''
     def __init__(self):
-        self.counterparts = {"thermotherapy":["belly","back","waist"],
-                             "stone":["belly","back","waist"],
-                             "shockwave":["back","back_shoulder","shoulder","leg"],
-                             "finger":["back","back_shoulder","shoulder","leg"]}
-        self.Gaussian_mode = ['line','point']
-        self.acupoints = None
-        self.body_part = None
-        self.GRID_SIZE = (8,26)
         with open('config/acupoint_metadata.json','r',encoding='utf-8') as file:
             metadata = json.load(file)
         self.acupoins_metadata = metadata
@@ -28,7 +20,10 @@ class sorter:
              acupoints_cleaned = []
              matched_keys = []
              for acupoint in acupoints:
-                  acupoints_cleaned.append(re.sub(r"[穴]$","",acupoint))
+                  res = re.sub(r"[穴]$","",acupoint)
+                  res = re.sub(r"[俞]$","",res)
+                  acupoints_cleaned.append(res)
+            #  print(f"{acupoints_cleaned}")
              for name in acupoints_cleaned:
                 keys_filtered = [k for k in self.acupoins_metadata.keys() if name in k]
                 matched_keys.extend(keys_filtered)
@@ -38,7 +33,7 @@ class sorter:
 
         def __get_coords(name:str):
              return self.acupoins_metadata[name]["pos"]
-        print(acupoints_filtered)
+        # print(acupoints_filtered)
         left_group = [pt for pt in acupoints_filtered if __get_coords(pt)[0] < 4]
         right_group = [pt for pt in acupoints_filtered if __get_coords(pt)[0] > 4]
         
@@ -52,6 +47,7 @@ class sorter:
 
 if __name__ == "__main__":
     mySorter = sorter()
+    print(type(mySorter.acupoins_metadata))
     test_response = "1. 肩井穴:缓解肩颈僵硬2. 天宗穴:放松背部肌肉3. 肺俞穴:增强肺功能"
-    pts_sorted = mySorter.sort_acupoints(test_response)
-    print(pts_sorted)
+    # pts_sorted = mySorter.sort_acupoints(test_response)
+    # print(pts_sorted)

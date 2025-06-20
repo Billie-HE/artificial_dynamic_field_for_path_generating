@@ -3,9 +3,9 @@ import matplotlib.pyplot as plt
 
 # ======================= 参数配置 ======================= #
 GRID_SIZE = 8
-START = (0, 0)
-GOAL = (7, 7)
-TOTAL_STEPS = 50
+START = (1, 1)
+GOAL = (6, 6)
+TOTAL_STEPS = 40
 
 # ======================= 高斯场调度器 ======================= #
 # 点状高斯源
@@ -168,18 +168,18 @@ def main():
     ),
     TimedGaussianSchedule(
         center=GOAL,
-        height_fn=lambda t: -8 * ((t - 30) / 20),
+        height_fn=lambda t: -8 * ((t - 20) / 20),
         sigma=1.5,
-        t_start=30,
-        t_end=50,
+        t_start=20,
+        t_end=40,
         hold_final=True
     ),
-    GaussianPathSchedule(
-        start=START,
-        end=GOAL,
-        height_fn=lambda t: -3,
-        sigma=1.5
-    )
+    # GaussianPathSchedule(
+    #     start=START,
+    #     end=GOAL,
+    #     height_fn=lambda t: -3,
+    #     sigma=1.5
+    # )
     ]
 
     
