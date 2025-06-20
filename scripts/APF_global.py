@@ -227,7 +227,7 @@ def plan_segment(start, goal, agent_path_accum, vis):
         GaussianPathSchedule(
             start=start,
             end=goal,
-            height_fn=lambda t: -5,
+            height_fn=lambda t: -3,
             sigma=1.5
         )
     ]
