@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # ======================= 参数配置 ======================= #
-GRID_SIZE = (8, 26)  # 行x列
+GRID_SIZE = (40, 130)  # 行x列
 TOTAL_STEPS = 50
 
 # 完整穴位坐标（示例，注意纵坐标对应列）
@@ -162,7 +162,7 @@ class Visualizer:
         self.grid_size = grid_size
         self.full_path_ref = full_path_ref
         plt.ion()
-        self.fig, self.ax = plt.subplots(figsize=(8, 6))  # 调整大小
+        self.fig, self.ax = plt.subplots(figsize=(4, 10))  # 调整大小
         self.im = self.ax.imshow(np.zeros(grid_size).T, origin='lower', cmap='viridis')
         self.colorbar = plt.colorbar(self.im, ax=self.ax, label='Height')
         self._artists: list = []
