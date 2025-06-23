@@ -1,0 +1,2859 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d11" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d10" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d9" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d8" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d7" for="edge" attr.name="description" attr.type="string"/>
+<key id="d6" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="阴陵柏">
+  <data key="d0">阴陵柏</data>
+  <data key="d1">category</data>
+  <data key="d2">阴陵柏位于膝关节内下方，胫骨向内上弯曲的凹陷处。按摩此穴可改善足部疾病、生殖系统疾病、泌尿系统疾病，尤其被强调为治疗妇科病的特效穴。</data>
+  <data key="d3">chunk-8435fd0e4a6125da7b5c7405416a26dd</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624571</data>
+</node>
+<node id="血海">
+  <data key="d0">血海</data>
+  <data key="d1">geo</data>
+  <data key="d2">血海位于大腿内侧股四头肌隆起最高点处。按摩此穴对月经不调、痛经等妇科症状具有显著疗效。&lt;SEP&gt;髌骨内上缘2寸的脾经穴位，主司血液循环与经血调节</data>
+  <data key="d3">chunk-6d76ee81aa2946631949c43fd43ba0c2&lt;SEP&gt;chunk-8435fd0e4a6125da7b5c7405416a26dd</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625535</data>
+</node>
+<node id="少海">
+  <data key="d0">少海</data>
+  <data key="d1">category</data>
+  <data key="d2">少海位于屈肘时肘横纹内侧端凹陷处，属于手少阴心经。按摩可缓解前臂麻木、手指颤抖、神经衰弱及头晕目眩等症状。</data>
+  <data key="d3">chunk-8435fd0e4a6125da7b5c7405416a26dd</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624571</data>
+</node>
+<node id="神门">
+  <data key="d0">神门</data>
+  <data key="d1">category</data>
+  <data key="d2">神门位于腕部豌豆骨下方桡侧凹陷处，属手少阴心经。按摩有助于调节心悸、心律不齐等心脏相关病症。</data>
+  <data key="d3">chunk-8435fd0e4a6125da7b5c7405416a26dd</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624571</data>
+</node>
+<node id="手少阴心经">
+  <data key="d0">手少阴心经</data>
+  <data key="d1">organization</data>
+  <data key="d2">手少阴心经是中医十二经脉之一，包含少海、神门等穴位，主司心脏与神经系统功能调节。</data>
+  <data key="d3">chunk-8435fd0e4a6125da7b5c7405416a26dd</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624571</data>
+</node>
+<node id="手阳明大肠经">
+  <data key="d0">手阳明大肠经</data>
+  <data key="d1">category</data>
+  <data key="d2">与肺经相表里的经络系统，包含曲池等重要治疗穴位&lt;SEP&gt;手阳明大肠经是中医经络系统之一，包含曲池、合谷、手三里等穴位，主要关联气血循环与皮肤健康调节。</data>
+  <data key="d3">chunk-0f5003d091761662a1ad9fabadd04fd5&lt;SEP&gt;chunk-fc101419690dc39ac6a4d49c48a4637a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624707</data>
+</node>
+<node id="曲池">
+  <data key="d0">曲池</data>
+  <data key="d1">category</data>
+  <data key="d2">位于肘横纹尽端的大肠经要穴，具有调节免疫与消炎作用&lt;SEP&gt;曲池穴位于肘弯横纹尽头处，按压可促进气血循环，改善肤质及气血状态。&lt;SEP&gt;肘部穴位，按揉对侧曲池有助于改善口臭</data>
+  <data key="d3">chunk-81ee8bca53e14e3a61632f4a8fac5bd8&lt;SEP&gt;chunk-0f5003d091761662a1ad9fabadd04fd5&lt;SEP&gt;chunk-fc101419690dc39ac6a4d49c48a4637a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626003</data>
+</node>
+<node id="合谷">
+  <data key="d0">合谷</data>
+  <data key="d1">category</data>
+  <data key="d2">合谷穴在虎口处，主治面部五官疾病，对头痛、牙痛、感冒等有显著疗效。&lt;SEP&gt;手背虎口处穴位，向食指侧按压可调节消化功能</data>
+  <data key="d3">chunk-81ee8bca53e14e3a61632f4a8fac5bd8&lt;SEP&gt;chunk-fc101419690dc39ac6a4d49c48a4637a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626003</data>
+</node>
+<node id="手三里">
+  <data key="d0">手三里</data>
+  <data key="d1">category</data>
+  <data key="d2">手三里穴位于阳溪与曲池连线肘横纹下三横指处，缓解上肢疲劳、腹痛、腹泻及肩背部疾病。</data>
+  <data key="d3">chunk-fc101419690dc39ac6a4d49c48a4637a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624588</data>
+</node>
+<node id="足阳明胃经">
+  <data key="d0">足阳明胃经</data>
+  <data key="d1">category</data>
+  <data key="d2">足阳明胃经为中医经络之一，包含头维、天枢等穴位，涉及消化系统与神经系统疾病治疗。</data>
+  <data key="d3">chunk-fc101419690dc39ac6a4d49c48a4637a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624588</data>
+</node>
+<node id="头维">
+  <data key="d0">头维</data>
+  <data key="d1">category</data>
+  <data key="d2">头维穴位于额角发际处，对三叉神经痛、偏头痛及高血压有显著缓解作用。</data>
+  <data key="d3">chunk-fc101419690dc39ac6a4d49c48a4637a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624588</data>
+</node>
+<node id="天枢">
+  <data key="d0">天枢</data>
+  <data key="d1">category</data>
+  <data key="d2">天枢穴位于肚脐旁开3横指处，按压有酸胀感。该穴位是调理和改善大肠疾病的重要穴位，能够促进肠胃蠕动。&lt;SEP&gt;天枢穴位于肚脐旁开三横指处，具体功效文本未完整提及，推测与消化系统相关。&lt;SEP&gt;脐旁2寸的胃经穴位，主司肠道蠕动调节与腹部脂肪代谢&lt;SEP&gt;天枢穴用于更年期综合症治疗，操作方式为双手中指按同侧穴位</data>
+  <data key="d3">chunk-6d76ee81aa2946631949c43fd43ba0c2&lt;SEP&gt;chunk-4373d166e39a04f4351c5c380f639e0e&lt;SEP&gt;chunk-c48b52943b8bb9abe281216a2bab50af&lt;SEP&gt;chunk-fc101419690dc39ac6a4d49c48a4637a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625873</data>
+</node>
+<node id="头痛">
+  <data key="d0">头痛</data>
+  <data key="d1">category</data>
+  <data key="d2">头痛是常见症状，可通过按压合谷穴进行治疗。</data>
+  <data key="d3">chunk-fc101419690dc39ac6a4d49c48a4637a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624588</data>
+</node>
+<node id="牙痛">
+  <data key="d0">牙痛</data>
+  <data key="d1">category</data>
+  <data key="d2">一种牙齿疼痛症状，通过按压四白、下关、大迎等穴位进行治疗&lt;SEP&gt;牙痛可通过合谷穴按压缓解，属于穴位治疗的适应症之一。&lt;SEP&gt;牙齿疼痛症状，通过四白、下关等穴位按压缓解</data>
+  <data key="d3">chunk-81ee8bca53e14e3a61632f4a8fac5bd8&lt;SEP&gt;chunk-9acf13c84c152d550454908bd767f544&lt;SEP&gt;chunk-fc101419690dc39ac6a4d49c48a4637a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626003</data>
+</node>
+<node id="感冒">
+  <data key="d0">感冒</data>
+  <data key="d1">category</data>
+  <data key="d2">感冒症状可通过刺激合谷穴辅助治疗。</data>
+  <data key="d3">chunk-fc101419690dc39ac6a4d49c48a4637a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624588</data>
+</node>
+<node id="三叉神经痛">
+  <data key="d0">三叉神经痛</data>
+  <data key="d1">category</data>
+  <data key="d2">三叉神经痛可通过头维穴按压获得缓解。</data>
+  <data key="d3">chunk-fc101419690dc39ac6a4d49c48a4637a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624588</data>
+</node>
+<node id="偏头痛">
+  <data key="d0">偏头痛</data>
+  <data key="d1">category</data>
+  <data key="d2">偏头痛是头维穴的主要治疗适应症之一。</data>
+  <data key="d3">chunk-fc101419690dc39ac6a4d49c48a4637a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624588</data>
+</node>
+<node id="高血压">
+  <data key="d0">高血压</data>
+  <data key="d1">category</data>
+  <data key="d2">可通过按摩特定穴位进行调理的心血管系统慢性疾病。&lt;SEP&gt;高血压症状可通过头维穴进行辅助调节。</data>
+  <data key="d3">chunk-854e74f26b5650173f02626ee3b278af&lt;SEP&gt;chunk-fc101419690dc39ac6a4d49c48a4637a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625343</data>
+</node>
+<node id="腹痛">
+  <data key="d0">腹痛</data>
+  <data key="d1">category</data>
+  <data key="d2">腹痛可通过手三里穴按压缓解。</data>
+  <data key="d3">chunk-fc101419690dc39ac6a4d49c48a4637a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624588</data>
+</node>
+<node id="腹泻">
+  <data key="d0">腹泻</data>
+  <data key="d1">category</data>
+  <data key="d2">腹泻症状是手三里穴的治疗范围之一。</data>
+  <data key="d3">chunk-fc101419690dc39ac6a4d49c48a4637a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624588</data>
+</node>
+<node id="肩背部疾病">
+  <data key="d0">肩背部疾病</data>
+  <data key="d1">category</data>
+  <data key="d2">肩背部疾病可通过手三里穴进行针对性治疗。</data>
+  <data key="d3">chunk-fc101419690dc39ac6a4d49c48a4637a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624588</data>
+</node>
+<node id="手太阴肺经">
+  <data key="d0">手太阴肺经</data>
+  <data key="d1">category</data>
+  <data key="d2">中医十二经络之一，包含尺泽、列缺、鱼际等重要穴位，主治呼吸系统疾病及相关痛症</data>
+  <data key="d3">chunk-0f5003d091761662a1ad9fabadd04fd5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624707</data>
+</node>
+<node id="尺泽">
+  <data key="d0">尺泽</data>
+  <data key="d1">category</data>
+  <data key="d2">位于肘横纹外侧凹陷处，按压可缓解咳嗽气喘、胸痛及肩周炎症的肺经核心穴位</data>
+  <data key="d3">chunk-0f5003d091761662a1ad9fabadd04fd5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624707</data>
+</node>
+<node id="列缺">
+  <data key="d0">列缺</data>
+  <data key="d1">category</data>
+  <data key="d2">四总穴之一，虎口交叉食指凹陷处，主治感冒头痛与颈椎不适的经典穴位&lt;SEP&gt;肺经络穴，对侧拇指按压用于颈椎康复治疗。</data>
+  <data key="d3">chunk-0f5003d091761662a1ad9fabadd04fd5&lt;SEP&gt;chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626074</data>
+</node>
+<node id="鱼际">
+  <data key="d0">鱼际</data>
+  <data key="d1">category</data>
+  <data key="d2">第一掌骨中点赤白肉际处，具有缓解慢性疲劳与调理亚健康状态的特殊功效</data>
+  <data key="d3">chunk-0f5003d091761662a1ad9fabadd04fd5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624707</data>
+</node>
+<node id="北京">
+  <data key="d0">北京</data>
+  <data key="d1">geo</data>
+  <data key="d2">中国的首都，政治、文化、经济中心，举办过多次国际会议和活动</data>
+  <data key="d3">chunk-0f5003d091761662a1ad9fabadd04fd5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624707</data>
+</node>
+<node id="张伟明">
+  <data key="d0">张伟明</data>
+  <data key="d1">person</data>
+  <data key="d2">绿色科技公司首席执行官，主导公司战略规划与可持续发展项目</data>
+  <data key="d3">chunk-0f5003d091761662a1ad9fabadd04fd5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624707</data>
+</node>
+<node id="全球气候峰会">
+  <data key="d0">全球气候峰会</data>
+  <data key="d1">event</data>
+  <data key="d2">2023年在北京举办的国际会议，聚焦气候变化与清洁能源合作</data>
+  <data key="d3">chunk-0f5003d091761662a1ad9fabadd04fd5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624707</data>
+</node>
+<node id="碳中和倡议">
+  <data key="d0">碳中和倡议</data>
+  <data key="d1">category</data>
+  <data key="d2">政府与企业合作推动的减少碳排放的长期行动计划</data>
+  <data key="d3">chunk-0f5003d091761662a1ad9fabadd04fd5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624707</data>
+</node>
+<node id="亚洲开发银行">
+  <data key="d0">亚洲开发银行</data>
+  <data key="d1">organization</data>
+  <data key="d2">区域性金融机构，为亚太地区环保项目提供资金支持</data>
+  <data key="d3">chunk-0f5003d091761662a1ad9fabadd04fd5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624707</data>
+</node>
+<node id="绿色科技公司">
+  <data key="d0">绿色科技公司</data>
+  <data key="d3">chunk-0f5003d091761662a1ad9fabadd04fd5</data>
+  <data key="d2">张伟明担任公司CEO，直接负责制定技术研发与碳中和战略</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624707</data>
+</node>
+<node id="手厥阴心包经">
+  <data key="d0">手厥阴心包经</data>
+  <data key="d1">organization</data>
+  <data key="d2">中医经络系统重要组成部分，包含内关等重要穴位&lt;SEP&gt;手厥阴心包经是人体经络系统的重要组成部分，具有通达任脉、联络内脏的功能，可缓解消化系统不适、安定心神并调节血压。</data>
+  <data key="d3">chunk-5e07807ab404dfe983a5059148f23b13&lt;SEP&gt;chunk-615d3d516f65aa14b922d14bdf222e04</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624807</data>
+</node>
+<node id="内关">
+  <data key="d0">内关</data>
+  <data key="d1">category</data>
+  <data key="d2">位于腕横纹上3横指，掌长肌腱与桡侧腕屈肌腱之间的穴位，主治消化系统疾病、心神不宁及血压异常。</data>
+  <data key="d3">chunk-615d3d516f65aa14b922d14bdf222e04</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624787</data>
+</node>
+<node id="劳宫">
+  <data key="d0">劳宫</data>
+  <data key="d1">category</data>
+  <data key="d2">握拳屈指时中指尖对应的掌心穴位，专治火气大引发的口腔溃疡和口臭，具有清热泻火功效。</data>
+  <data key="d3">chunk-615d3d516f65aa14b922d14bdf222e04</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624787</data>
+</node>
+<node id="中冲">
+  <data key="d0">中冲</data>
+  <data key="d1">category</data>
+  <data key="d2">位于中指指尖中央的急救要穴，用于昏迷、休克、中暑等危急情况的紧急救治。</data>
+  <data key="d3">chunk-615d3d516f65aa14b922d14bdf222e04</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624787</data>
+</node>
+<node id="手少阳三焦经">
+  <data key="d0">手少阳三焦经</data>
+  <data key="d1">category</data>
+  <data key="d2">人体主要经络之一，与外关穴相关联，功能涉及全身气机调节。</data>
+  <data key="d3">chunk-615d3d516f65aa14b922d14bdf222e04</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624787</data>
+</node>
+<node id="外关">
+  <data key="d0">外关</data>
+  <data key="d1">category</data>
+  <data key="d2">腕背侧远端横纹上3横指，尺骨与桡骨之间的穴位(文本未完整描述具体功能)。</data>
+  <data key="d3">chunk-615d3d516f65aa14b922d14bdf222e04</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624787</data>
+</node>
+<node id="中国科学技术协会">
+  <data key="d0">中国科学技术协会</data>
+  <data key="d1">organization</data>
+  <data key="d2">中国科学技术协会是中国科技工作者的群众组织，致力于推动科学技术发展和国际交流，主办多项高规格科技会议。</data>
+  <data key="d3">chunk-615d3d516f65aa14b922d14bdf222e04</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624787</data>
+</node>
+<node id="2023全球人工智能大会">
+  <data key="d0">2023全球人工智能大会</data>
+  <data key="d3">chunk-615d3d516f65aa14b922d14bdf222e04</data>
+  <data key="d2">作为大会主办方负责整体策划与资源协调</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624787</data>
+</node>
+<node id="承山穴">
+  <data key="d0">承山穴</data>
+  <data key="d1">category</data>
+  <data key="d2">位于腓肠肌下部人字纹凹陷处，主治眼部疾病的中医穴位</data>
+  <data key="d3">chunk-5e07807ab404dfe983a5059148f23b13</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624807</data>
+</node>
+<node id="涌泉穴">
+  <data key="d0">涌泉穴</data>
+  <data key="d1">category</data>
+  <data key="d2">足底前1/3凹陷处的肾经要穴，按摩可增强体力改善体质，属足少阴肾经</data>
+  <data key="d3">chunk-5e07807ab404dfe983a5059148f23b13</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624807</data>
+</node>
+<node id="太溪穴">
+  <data key="d0">太溪穴</data>
+  <data key="d1">category</data>
+  <data key="d2">内踝尖与跟腱之间凹陷处的肾经穴位，主治泌尿生殖系统和呼吸系统疾病</data>
+  <data key="d3">chunk-5e07807ab404dfe983a5059148f23b13</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624807</data>
+</node>
+<node id="照海穴">
+  <data key="d0">照海穴</data>
+  <data key="d1">category</data>
+  <data key="d2">内踝尖垂直向下的肾经穴位，善治咽部疾病及月经不调等妇科症状</data>
+  <data key="d3">chunk-5e07807ab404dfe983a5059148f23b13</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624807</data>
+</node>
+<node id="内关穴">
+  <data key="d0">内关穴</data>
+  <data key="d1">category</data>
+  <data key="d2">手厥阴心包经穴位，位于腕横纹上三横指处</data>
+  <data key="d3">chunk-5e07807ab404dfe983a5059148f23b13</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624807</data>
+</node>
+<node id="足少阴肾经">
+  <data key="d0">足少阴肾经</data>
+  <data key="d1">organization</data>
+  <data key="d2">中医十二正经之一，包含涌泉、太溪、照海等穴位，主导泌尿生殖系统功能</data>
+  <data key="d3">chunk-5e07807ab404dfe983a5059148f23b13</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624807</data>
+</node>
+<node id="美国国家航空航天局">
+  <data key="d0">美国国家航空航天局</data>
+  <data key="d1">organization</data>
+  <data key="d2">美国国家航空航天局(NASA)是负责美国民用航天计划和航空航天研究的联邦机构，主要开展空间探索、卫星发射、国际空间站运营等项目</data>
+  <data key="d3">chunk-5e07807ab404dfe983a5059148f23b13</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624807</data>
+</node>
+<node id="国际空间站">
+  <data key="d0">国际空间站</data>
+  <data key="d1">geo</data>
+  <data key="d2">国际空间站(ISS)是近地轨道上的可居住人造卫星，由五个航天机构联合运营，用于微重力环境下的科学研究</data>
+  <data key="d3">chunk-5e07807ab404dfe983a5059148f23b13</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624807</data>
+</node>
+<node id="阿尔忒弥斯计划">
+  <data key="d0">阿尔忒弥斯计划</data>
+  <data key="d1">event</data>
+  <data key="d2">NASA主导的月球探索项目，旨在2025年前让宇航员重返月球并建立可持续基地，为未来火星任务做准备</data>
+  <data key="d3">chunk-5e07807ab404dfe983a5059148f23b13</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624807</data>
+</node>
+<node id="欧洲航天局">
+  <data key="d0">欧洲航天局</data>
+  <data key="d1">organization</data>
+  <data key="d2">欧洲国家联合成立的航天机构，与NASA合作开发猎户座飞船和月球门户空间站</data>
+  <data key="d3">chunk-5e07807ab404dfe983a5059148f23b13</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624807</data>
+</node>
+<node id="黯风">
+  <data key="d0">黯风</data>
+  <data key="d1">category</data>
+  <data key="d2">位于耳垂后方凹陷处的穴位，坚持按摩可缓解耳鸣、头痛、牙痛及腮腺炎等症状</data>
+  <data key="d3">chunk-c7507a9d23acffadbee79a4da90bba1e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624915</data>
+</node>
+<node id="角孙">
+  <data key="d0">角孙</data>
+  <data key="d1">category</data>
+  <data key="d2">耳翼前折时耳尖所指发际凹陷处的穴位，按摩可显著缓解眩晕症状</data>
+  <data key="d3">chunk-c7507a9d23acffadbee79a4da90bba1e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624915</data>
+</node>
+<node id="听会">
+  <data key="d0">听会</data>
+  <data key="d1">category</data>
+  <data key="d2">耳屏下方张口凹陷处的胆经穴位，对耳鸣耳聋、腮腺炎及牙痛有疗效&lt;SEP&gt;耳屏前下方穴位，双拇指按压辅助缓解下颌关节问题</data>
+  <data key="d3">chunk-81ee8bca53e14e3a61632f4a8fac5bd8&lt;SEP&gt;chunk-c7507a9d23acffadbee79a4da90bba1e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626003</data>
+</node>
+<node id="肩井">
+  <data key="d0">肩井</data>
+  <data key="d1">category</data>
+  <data key="d2">大椎与肩峰端连线的中点穴位，可疏通肩颈气血并促进全身代谢&lt;SEP&gt;大椎穴与肩峰连线中点处的胆经穴位，具有疏通经络作用&lt;SEP&gt;肩井是治疗母乳不畅的穴位，通过拇指按压对侧穴位配合颈部侧倾操作&lt;SEP&gt;肩部穴位，按压对侧肩井辅助治疗慢性咽炎</data>
+  <data key="d3">chunk-81ee8bca53e14e3a61632f4a8fac5bd8&lt;SEP&gt;chunk-8cbc8c93c5971f54a9f5b3b386be05ed&lt;SEP&gt;chunk-c7507a9d23acffadbee79a4da90bba1e&lt;SEP&gt;chunk-6d76ee81aa2946631949c43fd43ba0c2</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626003</data>
+</node>
+<node id="足少阳胆经">
+  <data key="d0">足少阳胆经</data>
+  <data key="d1">category</data>
+  <data key="d2">中医十二经脉之一，包含听会、肩井等重要穴位</data>
+  <data key="d3">chunk-c7507a9d23acffadbee79a4da90bba1e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624915</data>
+</node>
+<node id="手太阳小肠经">
+  <data key="d0">手太阳小肠经</data>
+  <data key="d1">category</data>
+  <data key="d2">中医经络系统中的重要经脉，包含后溪、阳谷等穴位，涉及颈肩腰部疾病治疗</data>
+  <data key="d3">chunk-0ec5412ebe21e8c107bf7a62870a881d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624956</data>
+</node>
+<node id="后溪">
+  <data key="d0">后溪</data>
+  <data key="d1">category</data>
+  <data key="d2">位于小指掌指关节后皱襞突起的穴位，改善颈肩腰肌劳损与疼痛</data>
+  <data key="d3">chunk-0ec5412ebe21e8c107bf7a62870a881d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624956</data>
+</node>
+<node id="阳谷">
+  <data key="d0">阳谷</data>
+  <data key="d1">category</data>
+  <data key="d2">腕外侧尺骨茎突与三角骨结合部的穴位，缓解腕关节疼痛及五官疾病</data>
+  <data key="d3">chunk-0ec5412ebe21e8c107bf7a62870a881d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624956</data>
+</node>
+<node id="天宗">
+  <data key="d0">天宗</data>
+  <data key="d1">category</data>
+  <data key="d2">肩胛冈下窝中央凹陷处的穴位，专门缓解肩胛痛和背痛症状</data>
+  <data key="d3">chunk-0ec5412ebe21e8c107bf7a62870a881d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624956</data>
+</node>
+<node id="听宫">
+  <data key="d0">听宫</data>
+  <data key="d1">category</data>
+  <data key="d2">耳屏与下颌关节间凹陷处的穴位，刺激可增强听力功能</data>
+  <data key="d3">chunk-0ec5412ebe21e8c107bf7a62870a881d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749624956</data>
+</node>
+<node id="阿里巴巴">
+  <data key="d0">阿里巴巴</data>
+  <data key="d1">organization</data>
+  <data key="d2">中国领先的电子商务和科技企业，业务涵盖云计算、数字媒体、物流及金融服务，致力于推动全球贸易数字化进程</data>
+  <data key="d3">chunk-723b76b51e6db1b562b081821c1725f6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625050</data>
+</node>
+<node id="马云">
+  <data key="d0">马云</data>
+  <data key="d1">person</data>
+  <data key="d2">阿里巴巴集团创始人及核心战略决策者，曾长期担任董事局主席，现为永久合伙人，在科技与慈善领域具有广泛影响力</data>
+  <data key="d3">chunk-723b76b51e6db1b562b081821c1725f6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625050</data>
+</node>
+<node id="东南亚">
+  <data key="d0">东南亚</data>
+  <data key="d1">geo</data>
+  <data key="d2">阿里巴巴国际化战略重点区域，通过投资Lazada等本地平台拓展电商与支付业务</data>
+  <data key="d3">chunk-723b76b51e6db1b562b081821c1725f6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625050</data>
+</node>
+<node id="碳中和计划">
+  <data key="d0">碳中和计划</data>
+  <data key="d1">event</data>
+  <data key="d2">阿里巴巴宣布的2030年实现集团运营碳中和目标，涉及供应链改造与绿色数据中心建设</data>
+  <data key="d3">chunk-723b76b51e6db1b562b081821c1725f6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625050</data>
+</node>
+<node id="数字丝绸之路">
+  <data key="d0">数字丝绸之路</data>
+  <data key="d1">category</data>
+  <data key="d2">阿里巴巴响应"一带一路"倡议提出的跨境数字贸易基础设施建设项目</data>
+  <data key="d3">chunk-723b76b51e6db1b562b081821c1725f6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625050</data>
+</node>
+<node id="达摩院">
+  <data key="d0">达摩院</data>
+  <data key="d1">organization</data>
+  <data key="d2">阿里巴巴旗下专注基础科学和颠覆式技术创新的研究机构，覆盖量子计算、AI芯片等领域</data>
+  <data key="d3">chunk-723b76b51e6db1b562b081821c1725f6</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625050</data>
+</node>
+<node id="足太阳膀胱经">
+  <data key="d0">足太阳膀胱经</data>
+  <data key="d1">category</data>
+  <data key="d2">足太阳膀胱经是中医经络系统中的重要组成部分，包含多个治疗特定病症的穴位，如描竹、腾俞等。</data>
+  <data key="d3">chunk-2371e5fab486dbc4f9322b0585152b17</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625109</data>
+</node>
+<node id="描竹">
+  <data key="d0">描竹</data>
+  <data key="d1">category</data>
+  <data key="d2">位于皱眉时眉毛内侧端隆起处的穴位，主治眼部疾病及缓解腰背肌扭伤疼痛。</data>
+  <data key="d3">chunk-2371e5fab486dbc4f9322b0585152b17</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625109</data>
+</node>
+<node id="腾俞">
+  <data key="d0">腾俞</data>
+  <data key="d1">category</data>
+  <data key="d2">位于肩胛骨下角水平连线与脊柱交点旁开2横指处的穴位，可治疗饮食不下、呕吐等症状。</data>
+  <data key="d3">chunk-2371e5fab486dbc4f9322b0585152b17</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625109</data>
+</node>
+<node id="大肠俞">
+  <data key="d0">大肠俞</data>
+  <data key="d1">category</data>
+  <data key="d2">位于髂前上棘连线与脊柱交点旁开2横指处的穴位，具有健腰背、调肠腑的功能。&lt;SEP&gt;第四腰椎棘突旁开1.5寸的膀胱经穴位，直接调控大肠功能的减肥关键穴位&lt;SEP&gt;腰部第四腰椎旁穴位，双拇指按压缓解便秘&lt;SEP&gt;大肠俞是中医穴位名称，位于腰部第四腰椎棘突下旁开1.5寸处，常用于治疗消化系统疾病和腰背疼痛。按摩时用拇指按压该穴位。</data>
+  <data key="d3">chunk-81ee8bca53e14e3a61632f4a8fac5bd8&lt;SEP&gt;chunk-350eaf26444d6d2a164f951db9472eff&lt;SEP&gt;chunk-2371e5fab486dbc4f9322b0585152b17&lt;SEP&gt;chunk-6d76ee81aa2946631949c43fd43ba0c2</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626202</data>
+</node>
+<node id="委中">
+  <data key="d0">委中</data>
+  <data key="d1">category</data>
+  <data key="d2">胭窝横纹中点动脉搏动处的穴位，主要用于缓解腰背酸痛和足部疼痛。&lt;SEP&gt;膝后穴位，使用拇指按压法治疗产后腰痛</data>
+  <data key="d3">chunk-d22f341589c46e49266a22362f0de221&lt;SEP&gt;chunk-2371e5fab486dbc4f9322b0585152b17</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625808</data>
+</node>
+<node id="承山">
+  <data key="d0">承山</data>
+  <data key="d1">category</data>
+  <data key="d2">腓肠肌下部人字纹凹陷处的穴位，与足部疼痛缓解相关。</data>
+  <data key="d3">chunk-2371e5fab486dbc4f9322b0585152b17</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625109</data>
+</node>
+<node id="&lt;中国共产党&gt;">
+  <data key="d0">&lt;中国共产党&gt;</data>
+  <data key="d1">&lt;organization&gt;</data>
+  <data key="d2">&lt;中国的执政党，2021年举行成立100周年庆祝活动，领导国家政治经济全局&gt;</data>
+  <data key="d3">chunk-2371e5fab486dbc4f9322b0585152b17</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625109</data>
+</node>
+<node id="&lt;习近平总书记&gt;">
+  <data key="d0">&lt;习近平总书记&gt;</data>
+  <data key="d3">chunk-2371e5fab486dbc4f9322b0585152b17</data>
+  <data key="d2">&lt;习近平总书记作为党的最高领导人主持百年庆祝活动并制定战略方针&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625109</data>
+</node>
+<node id="犊鼻">
+  <data key="d0">犊鼻</data>
+  <data key="d1">category</data>
+  <data key="d2">犊鼻穴位于膝盖外下方凹陷处，常用于改善关节炎、风湿及膝盖疼痛等关节问题。</data>
+  <data key="d3">chunk-c48b52943b8bb9abe281216a2bab50af</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625195</data>
+</node>
+<node id="足三里">
+  <data key="d0">足三里</data>
+  <data key="d1">category</data>
+  <data key="d2">足三里穴是足阳明胃经的合穴，位于人体下肢外侧，具体在小腿前外侧、犊鼻穴（膝盖外侧凹陷处）下3寸处。作为腿部重要穴位，其定位存在不同描述，但综合来看更准确的位置应属小腿外侧而非髋骨区域。  
+
+该穴位被誉為「无病长寿的健康穴」，具有广泛的治疗作用：  
+1. **按压疗法**：用拇指按揉或按压可缓解腰背痛症状，同时能调理肠胃功能、改善口臭问题，并对消化系统与生殖系统疾病有调节作用；  
+2. **艾灸应用**：通过带罩温灸器进行10-20秒短时艾灸，可有效治疗产后宫缩痛，亦对各类慢性疾病（如免疫力低下、体虚调理）具有显著疗效。  
+
+其疗效覆盖疼痛缓解、慢性病调理及妇科产后康复，体现了中西医结合应用中「一穴多效」的特点。</data>
+  <data key="d3">chunk-9acf13c84c152d550454908bd767f544&lt;SEP&gt;chunk-81ee8bca53e14e3a61632f4a8fac5bd8&lt;SEP&gt;chunk-c48b52943b8bb9abe281216a2bab50af&lt;SEP&gt;chunk-d22f341589c46e49266a22362f0de221&lt;SEP&gt;chunk-58278163a4a76e8f700f4fdf9445477d&lt;SEP&gt;chunk-8cbc8c93c5971f54a9f5b3b386be05ed</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626074</data>
+</node>
+<node id="三阴交">
+  <data key="d0">三阴交</data>
+  <data key="d1">category</data>
+  <data key="d2">三阴交是足太阴脾经的重要穴位，位于下肢内侧足内踝尖上4横指（约3寸）的胫骨内侧缘后方。作为多病症共用穴位，它兼具调节肝、脾、肾三经的功能，尤其以妇科疾病治疗效果显著，常用于治疗习惯性流产、产后宫缩痛、更年期综合征等病症，同时对内分泌调理及腰膝寒冷症状也有明显改善作用。  
+
+操作手法包含多种方式：可采用双手拇指垂直按压，或运用四指平推法自下而上沿下肢内侧推按，还可使用浴刷沿穴位上下反复刷动以增强刺激。这些手法根据病症特点灵活应用，既可作为日常保健手段，也是临床治疗的重要干预措施。&lt;SEP&gt;足太阴脾经要穴，用于妇科疾病与炎症治疗，双手拇指按压法。</data>
+  <data key="d3">chunk-6d76ee81aa2946631949c43fd43ba0c2&lt;SEP&gt;chunk-9acf13c84c152d550454908bd767f544&lt;SEP&gt;chunk-4373d166e39a04f4351c5c380f639e0e&lt;SEP&gt;chunk-c48b52943b8bb9abe281216a2bab50af&lt;SEP&gt;chunk-d22f341589c46e49266a22362f0de221&lt;SEP&gt;chunk-58278163a4a76e8f700f4fdf9445477d&lt;SEP&gt;chunk-8cbc8c93c5971f54a9f5b3b386be05ed</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626044</data>
+</node>
+<node id="阴陵泉">
+  <data key="d0">阴陵泉</data>
+  <data key="d1">geo</data>
+  <data key="d2">小腿内侧胫骨内侧髁下方的健脾祛湿要穴，常用于改善水肿和皮肤问题&lt;SEP&gt;阴陵泉治疗子宫脱垂需屈膝后用对侧拇指按压&lt;SEP&gt;阴陵泉穴位于膝关节内下方胫骨内侧，具体功能需结合完整文本补充。</data>
+  <data key="d3">chunk-6d76ee81aa2946631949c43fd43ba0c2&lt;SEP&gt;chunk-8cbc8c93c5971f54a9f5b3b386be05ed&lt;SEP&gt;chunk-c48b52943b8bb9abe281216a2bab50af</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625535</data>
+</node>
+<node id="足太阴脾经">
+  <data key="d0">足太阴脾经</data>
+  <data key="d1">category</data>
+  <data key="d2">足太阴脾经是中医经络系统之一，包含三阴交等重要穴位。</data>
+  <data key="d3">chunk-c48b52943b8bb9abe281216a2bab50af</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625195</data>
+</node>
+<node id="大肠疾病">
+  <data key="d0">大肠疾病</data>
+  <data key="d1">category</data>
+  <data key="d2">大肠疾病泛指肠道功能异常相关病症，可通过天枢穴进行调理。</data>
+  <data key="d3">chunk-c48b52943b8bb9abe281216a2bab50af</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625195</data>
+</node>
+<node id="妇科病">
+  <data key="d0">妇科病</data>
+  <data key="d1">category</data>
+  <data key="d2">妇科病指女性生殖系统相关疾病，三阴交穴对此有特殊疗效。</data>
+  <data key="d3">chunk-c48b52943b8bb9abe281216a2bab50af</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625195</data>
+</node>
+<node id="关节炎">
+  <data key="d0">关节炎</data>
+  <data key="d3">chunk-c48b52943b8bb9abe281216a2bab50af</data>
+  <data key="d2">犊鼻穴的按摩可缓解关节炎、风湿等关节炎症症状。</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625195</data>
+</node>
+<node id="慢性疾病">
+  <data key="d0">慢性疾病</data>
+  <data key="d3">chunk-c48b52943b8bb9abe281216a2bab50af</data>
+  <data key="d2">足三里穴被誉为多功能健康穴，对多种慢性疾病有广泛疗效。</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625195</data>
+</node>
+<node id="蠡沟">
+  <data key="d0">蠡沟</data>
+  <data key="d1">category</data>
+  <data key="d2">位于足内踝尖上5寸的穴位，主治女性月经不调、白带过多等妇科症状，具有调节生殖系统功能的作用。</data>
+  <data key="d3">chunk-854e74f26b5650173f02626ee3b278af</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625343</data>
+</node>
+<node id="督脉">
+  <data key="d0">督脉</data>
+  <data key="d1">category</data>
+  <data key="d2">起于会阴部贯穿脊柱至头顶的经脉系统，主治头部疾病、脊柱病变及神志类病症，如头痛、颈椎病、癫狂等。</data>
+  <data key="d3">chunk-854e74f26b5650173f02626ee3b278af</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625343</data>
+</node>
+<node id="长强">
+  <data key="d0">长强</data>
+  <data key="d1">category</data>
+  <data key="d2">位于尾骨端与肛门连线的中点处，是调理痔疮最重要的穴位。&lt;SEP&gt;尾骨端与肛门连线中点的穴位，常用于调理肛肠疾病及脊柱相关病症。&lt;SEP&gt;长强是子宫脱垂治疗穴位，使用带罩温灸器进行持续艾灸</data>
+  <data key="d3">chunk-8cbc8c93c5971f54a9f5b3b386be05ed&lt;SEP&gt;chunk-51ea59980c5c395f2beac9a55119d0f3&lt;SEP&gt;chunk-854e74f26b5650173f02626ee3b278af</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625445</data>
+</node>
+<node id="乳腺炎">
+  <data key="d0">乳腺炎</data>
+  <data key="d1">category</data>
+  <data key="d2">乳腺组织炎症性疾病，属于穴位按摩的适应症范围。</data>
+  <data key="d3">chunk-854e74f26b5650173f02626ee3b278af</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625343</data>
+</node>
+<node id="月经不调">
+  <data key="d0">月经不调</data>
+  <data key="d1">category</data>
+  <data key="d2">女性生殖系统常见病症，是蠡穴的主要治疗方向之一。</data>
+  <data key="d3">chunk-854e74f26b5650173f02626ee3b278af</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625343</data>
+</node>
+<node id="颈椎病">
+  <data key="d0">颈椎病</data>
+  <data key="d1">category</data>
+  <data key="d2">督脉主治的脊柱病变类型，表现为颈部强直疼痛等症状。</data>
+  <data key="d3">chunk-854e74f26b5650173f02626ee3b278af</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625343</data>
+</node>
+<node id="白带过多">
+  <data key="d0">白带过多</data>
+  <data key="d3">chunk-854e74f26b5650173f02626ee3b278af</data>
+  <data key="d2">该穴位对女性生殖系统异常分泌物具有调节作用</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625343</data>
+</node>
+<node id="癫狂">
+  <data key="d0">癫狂</data>
+  <data key="d3">chunk-854e74f26b5650173f02626ee3b278af</data>
+  <data key="d2">督脉与神志疾病密切相关，可调理精神类病症</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625343</data>
+</node>
+<node id="脊柱病变">
+  <data key="d0">脊柱病变</data>
+  <data key="d3">chunk-854e74f26b5650173f02626ee3b278af</data>
+  <data key="d2">作为督脉起始穴，长强调理脊柱相关疾病的基础穴位</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625343</data>
+</node>
+<node id="中府">
+  <data key="d0">中府</data>
+  <data key="d1">category</data>
+  <data key="d2">中府是治疗母乳不畅的穴位，采用四指环形按搡手法作用于对侧穴位</data>
+  <data key="d3">chunk-8cbc8c93c5971f54a9f5b3b386be05ed</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625345</data>
+</node>
+<node id="膻中">
+  <data key="d0">膻中</data>
+  <data key="d1">geo</data>
+  <data key="d2">两乳头连线中点的任脉穴位，具有宽胸理气、调节乳腺功能的作用&lt;SEP&gt;膻中是治疗母乳不畅的核心穴位，使用中指直接按压操作</data>
+  <data key="d3">chunk-6d76ee81aa2946631949c43fd43ba0c2&lt;SEP&gt;chunk-8cbc8c93c5971f54a9f5b3b386be05ed</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625535</data>
+</node>
+<node id="大敦">
+  <data key="d0">大敦</data>
+  <data key="d1">category</data>
+  <data key="d2">大敦是治疗慢性盆腔炎的穴位，通过牙签粗端向趾尖方向轻压刺激</data>
+  <data key="d3">chunk-8cbc8c93c5971f54a9f5b3b386be05ed</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625345</data>
+</node>
+<node id="曲泉">
+  <data key="d0">曲泉</data>
+  <data key="d1">category</data>
+  <data key="d2">曲泉是慢性盆腔炎治疗穴位，需屈膝后以拇指进行小范围环形按揉</data>
+  <data key="d3">chunk-8cbc8c93c5971f54a9f5b3b386be05ed</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625345</data>
+</node>
+<node id="中极">
+  <data key="d0">中极</data>
+  <data key="d1">category</data>
+  <data key="d2">下腹部穴位，采用四指顺时针按揉缓解宫缩痛&lt;SEP&gt;中极是治疗复发性尿道炎和子宫后位的重点穴位，使用四指顺时针按揉&lt;SEP&gt;任脉穴位，治疗子宫后位时以四指顺时针按揉刺激。</data>
+  <data key="d3">chunk-d22f341589c46e49266a22362f0de221&lt;SEP&gt;chunk-8cbc8c93c5971f54a9f5b3b386be05ed&lt;SEP&gt;chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626044</data>
+</node>
+<node id="曲骨">
+  <data key="d0">曲骨</data>
+  <data key="d1">category</data>
+  <data key="d2">曲骨用于尿道炎治疗，以中指按压为主要操作手法</data>
+  <data key="d3">chunk-8cbc8c93c5971f54a9f5b3b386be05ed</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625345</data>
+</node>
+<node id="行间">
+  <data key="d0">行间</data>
+  <data key="d1">category</data>
+  <data key="d2">行间是尿道炎治疗穴位，采用食指按压同侧穴位的方式</data>
+  <data key="d3">chunk-8cbc8c93c5971f54a9f5b3b386be05ed</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625345</data>
+</node>
+<node id="母乳不畅">
+  <data key="d0">母乳不畅</data>
+  <data key="d1">category</data>
+  <data key="d2">以肩井、中府、膻中为核心穴位的哺乳期症状治疗方案</data>
+  <data key="d3">chunk-8cbc8c93c5971f54a9f5b3b386be05ed</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625345</data>
+</node>
+<node id="慢性盆腔灵">
+  <data key="d0">慢性盆腔灵</data>
+  <data key="d1">category</data>
+  <data key="d2">通过大敦、曲泉、三阴交联合治疗慢性盆腔炎症</data>
+  <data key="d3">chunk-8cbc8c93c5971f54a9f5b3b386be05ed</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625345</data>
+</node>
+<node id="女性复发性尿道炎">
+  <data key="d0">女性复发性尿道炎</data>
+  <data key="d1">category</data>
+  <data key="d2">采用中极、曲骨、行间穴位组合的反复发作尿道感染疗法</data>
+  <data key="d3">chunk-8cbc8c93c5971f54a9f5b3b386be05ed</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625345</data>
+</node>
+<node id="子宫脱垂">
+  <data key="d0">子宫脱垂</data>
+  <data key="d1">category</data>
+  <data key="d2">三阴交、长强、阴陵泉三穴联用的盆腔脏器下垂治疗方案</data>
+  <data key="d3">chunk-8cbc8c93c5971f54a9f5b3b386be05ed</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625345</data>
+</node>
+<node id="子宫后位">
+  <data key="d0">子宫后位</data>
+  <data key="d1">category</data>
+  <data key="d2">以三阴交和中极穴位为主的子宫位置异常矫正方法&lt;SEP&gt;妇科疾病，治疗时需按压三阴交、中极穴位并进行艾灸中脘穴。</data>
+  <data key="d3">chunk-8cbc8c93c5971f54a9f5b3b386be05ed&lt;SEP&gt;chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626044</data>
+</node>
+<node id="U.S. Department of Commerce">
+  <data key="d0">U.S. Department of Commerce</data>
+  <data key="d1">organization</data>
+  <data key="d2">美国联邦政府机构，负责制定和执行出口管制政策，近期加强对中国半导体企业的技术限制"</data>
+  <data key="d3">chunk-8cbc8c93c5971f54a9f5b3b386be05ed</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625345</data>
+</node>
+<node id="Export Control Policies">
+  <data key="d0">Export Control Policies</data>
+  <data key="d3">chunk-8cbc8c93c5971f54a9f5b3b386be05ed</data>
+  <data key="d2">美国商务部是出口管制政策的主要制定与执行机构</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625345</data>
+</node>
+<node id="命门">
+  <data key="d0">命门</data>
+  <data key="d1">category</data>
+  <data key="d2">腰部核心穴位，通过热水袋热敷治疗产后腰痛&lt;SEP&gt;通过绕脐水平线定位后正中线交点，具有提升精力和改善体质的作用。</data>
+  <data key="d3">chunk-d22f341589c46e49266a22362f0de221&lt;SEP&gt;chunk-51ea59980c5c395f2beac9a55119d0f3</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625808</data>
+</node>
+<node id="百会">
+  <data key="d0">百会</data>
+  <data key="d1">category</data>
+  <data key="d2">两耳尖连线与头正中线相交处，可缓解老年痴呆、高血压及头痛等症状。&lt;SEP&gt;头顶正中线与两耳尖连线交点的督脉穴位，具有升阳固脱、健脑乌发的功效&lt;SEP&gt;头顶重要穴位，用双手中指按压治疗头痛与头晕</data>
+  <data key="d3">chunk-6d76ee81aa2946631949c43fd43ba0c2&lt;SEP&gt;chunk-51ea59980c5c395f2beac9a55119d0f3&lt;SEP&gt;chunk-9acf13c84c152d550454908bd767f544</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625570</data>
+</node>
+<node id="神庆">
+  <data key="d0">神庆</data>
+  <data key="d1">category</data>
+  <data key="d2">前发际正中直上半横指处，常用于缓解头晕目眩与鼻炎问题。</data>
+  <data key="d3">chunk-51ea59980c5c395f2beac9a55119d0f3</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625445</data>
+</node>
+<node id="任脉">
+  <data key="d0">任脉</data>
+  <data key="d1">organization</data>
+  <data key="d2">中医经络系统中的重要经脉，包含气海、神阙等关键穴位。</data>
+  <data key="d3">chunk-51ea59980c5c395f2beac9a55119d0f3</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625445</data>
+</node>
+<node id="气海">
+  <data key="d0">气海</data>
+  <data key="d1">category</data>
+  <data key="d2">脐下正中1.5寸处，主要调理泌尿生殖系统疾病。</data>
+  <data key="d3">chunk-51ea59980c5c395f2beac9a55119d0f3</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625445</data>
+</node>
+<node id="神阙">
+  <data key="d0">神阙</data>
+  <data key="d1">category</data>
+  <data key="d2">任脉核心穴位之一，具体作用在文本中未完整描述。&lt;SEP&gt;位于肚脐处的穴位，经常刺激可缓解腹痛</data>
+  <data key="d3">chunk-51ea59980c5c395f2beac9a55119d0f3&lt;SEP&gt;chunk-f92e7a0b993726b305b45afe33a767a8</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625677</data>
+</node>
+<node id="美白祛斑">
+  <data key="d0">美白祛斑</data>
+  <data key="d1">category</data>
+  <data key="d2">皮肤美容治疗领域，以肾俞为核心作用穴位&lt;SEP&gt;通过按摩肾俞、阴陵泉、三阴交等穴位实现美白和祛斑的中医疗法</data>
+  <data key="d3">chunk-6d76ee81aa2946631949c43fd43ba0c2&lt;SEP&gt;chunk-f92e7a0b993726b305b45afe33a767a8</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625677</data>
+</node>
+<node id="肾俞">
+  <data key="d0">肾俞</data>
+  <data key="d1">category</data>
+  <data key="d2">肾俞穴是中医膀胱经的重要腰部穴位，具体位于第二腰椎棘突旁开1.5寸处。该穴位具有补肾益气、调理内分泌等多重功能，临床应用涵盖妇科疾病、美容调理及骨骼健康三大领域：  
+1. **妇科治疗**：通过艾灶灸疗法（燃烧至艾条完毕）或拇指按揉/体重按压等手法，用于月经不调、更年期综合症及不孕症治疗；  
+2. **美容应用**：采用握拳顶压操作法，针对黑眼圈、美白祛斑等皮肤问题进行干预；  
+3. **骨骼健康**：通过艾灸疗法缓解腰背疼痛，尤其对骨质疏松引发的慢性疼痛具有显著疗效。  
+
+操作时需注意：艾灸过程中须严格控制温度与时间，避免烫伤皮肤；按压类手法应根据患者体质调整力度。该穴位体现了中医"一穴多效"的特点，兼具治疗与保健双重价值。</data>
+  <data key="d3">chunk-6d76ee81aa2946631949c43fd43ba0c2&lt;SEP&gt;chunk-9acf13c84c152d550454908bd767f544&lt;SEP&gt;chunk-f92e7a0b993726b305b45afe33a767a8&lt;SEP&gt;chunk-4373d166e39a04f4351c5c380f639e0e&lt;SEP&gt;chunk-d22f341589c46e49266a22362f0de221&lt;SEP&gt;chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626104</data>
+</node>
+<node id="乌发美发">
+  <data key="d0">乌发美发</data>
+  <data key="d1">category</data>
+  <data key="d2">通过刺激肾俞、百会、风池等穴位促进头发生长与养护的中医理疗方案</data>
+  <data key="d3">chunk-6d76ee81aa2946631949c43fd43ba0c2</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625535</data>
+</node>
+<node id="风池">
+  <data key="d0">风池</data>
+  <data key="d1">category</data>
+  <data key="d2">枕骨下方胸锁乳突肌与斜方肌间的胆经穴位，常用于头部供血改善与发质养护&lt;SEP&gt;颈部后方穴位，拇指按压同侧穴位改善头晕&lt;SEP&gt;胆经穴位，双拇指按压治疗颈椎劳损相关症状。</data>
+  <data key="d3">chunk-6d76ee81aa2946631949c43fd43ba0c2&lt;SEP&gt;chunk-9acf13c84c152d550454908bd767f544&lt;SEP&gt;chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626074</data>
+</node>
+<node id="减肥减脂">
+  <data key="d0">减肥减脂</data>
+  <data key="d1">category</data>
+  <data key="d2">通过按压肩井、天枢、大肠俞等穴位调节代谢功能的中医减重疗法</data>
+  <data key="d3">chunk-6d76ee81aa2946631949c43fd43ba0c2</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625535</data>
+</node>
+<node id="经前乳胀">
+  <data key="d0">经前乳胀</data>
+  <data key="d1">category</data>
+  <data key="d2">通过肝俞、胃俞、膻中穴位按摩缓解经期前乳房胀痛的中医调理方法</data>
+  <data key="d3">chunk-6d76ee81aa2946631949c43fd43ba0c2</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625535</data>
+</node>
+<node id="肝俞">
+  <data key="d0">肝俞</data>
+  <data key="d1">category</data>
+  <data key="d2">第九胸椎棘突旁开1.5寸的膀胱经穴位，主疏肝解郁与内分泌调节&lt;SEP&gt;肝俞穴针对贫血症状，操作方式为拇指按压同侧穴位</data>
+  <data key="d3">chunk-6d76ee81aa2946631949c43fd43ba0c2&lt;SEP&gt;chunk-4373d166e39a04f4351c5c380f639e0e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625873</data>
+</node>
+<node id="胃俞">
+  <data key="d0">胃俞</data>
+  <data key="d1">category</data>
+  <data key="d2">第十二胸椎棘突旁开1.5寸的膀胱经穴位，用于调和脾胃气机&lt;SEP&gt;背部穴位，侧卧按压可调理虚弱体质</data>
+  <data key="d3">chunk-6d76ee81aa2946631949c43fd43ba0c2&lt;SEP&gt;chunk-9acf13c84c152d550454908bd767f544</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625570</data>
+</node>
+<node id="痛经、月经周期不规则">
+  <data key="d0">痛经、月经周期不规则</data>
+  <data key="d1">category</data>
+  <data key="d2">综合运用三阴交、血海、肾俞等穴位调理妇科功能的中医疗法</data>
+  <data key="d3">chunk-6d76ee81aa2946631949c43fd43ba0c2</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625535</data>
+</node>
+<node id="腰背痛">
+  <data key="d0">腰背痛</data>
+  <data key="d1">category</data>
+  <data key="d2">腰背痛是由于骨质疏松引起的症状，通过艾灸肾俞穴和按压足三里、三阴交等穴位进行治疗</data>
+  <data key="d3">chunk-9acf13c84c152d550454908bd767f544</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625570</data>
+</node>
+<node id="失眠">
+  <data key="d0">失眠</data>
+  <data key="d1">category</data>
+  <data key="d2">睡眠障碍病症，通过按压腕中、巨阙、涌泉等穴位缓解</data>
+  <data key="d3">chunk-9acf13c84c152d550454908bd767f544</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625570</data>
+</node>
+<node id="腕中">
+  <data key="d0">腕中</data>
+  <data key="d1">category</data>
+  <data key="d2">手腕部位穴位，用中指按揉治疗失眠</data>
+  <data key="d3">chunk-9acf13c84c152d550454908bd767f544</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625570</data>
+</node>
+<node id="巨阙">
+  <data key="d0">巨阙</data>
+  <data key="d1">category</data>
+  <data key="d2">胸腹部穴位，通过中指按揉改善失眠</data>
+  <data key="d3">chunk-9acf13c84c152d550454908bd767f544</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625570</data>
+</node>
+<node id="涌泉">
+  <data key="d0">涌泉</data>
+  <data key="d1">category</data>
+  <data key="d2">足底穴位，按压可同时治疗失眠和体质虚弱&lt;SEP&gt;足底重要穴位，通过握拳敲击方式刺激，用于辅助治疗不孕症</data>
+  <data key="d3">chunk-d22f341589c46e49266a22362f0de221&lt;SEP&gt;chunk-9acf13c84c152d550454908bd767f544</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625808</data>
+</node>
+<node id="头痛、头重">
+  <data key="d0">头痛、头重</data>
+  <data key="d1">category</data>
+  <data key="d2">头部不适症状，通过百会、天柱、太白穴位按压缓解</data>
+  <data key="d3">chunk-9acf13c84c152d550454908bd767f544</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625570</data>
+</node>
+<node id="天柱">
+  <data key="d0">天柱</data>
+  <data key="d1">category</data>
+  <data key="d2">后发际线旁穴位，双拇指按压可缓解咽喉不适&lt;SEP&gt;颈部穴位，拇指按压配合四指支撑头部治疗头痛&lt;SEP&gt;膀胱经颈部穴位，与风池配合缓解颈椎问题。</data>
+  <data key="d3">chunk-81ee8bca53e14e3a61632f4a8fac5bd8&lt;SEP&gt;chunk-9acf13c84c152d550454908bd767f544&lt;SEP&gt;chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626074</data>
+</node>
+<node id="太白">
+  <data key="d0">太白</data>
+  <data key="d1">category</data>
+  <data key="d2">太白是足太阴脾经穴位，位于足内侧缘第一跖趾关节后下方凹陷处。按摩时需从足趾向脚踝方向平推，具有调理脾胃功能的作用。&lt;SEP&gt;足内侧穴位，双手拇指叠按用于面瘫和便秘治疗&lt;SEP&gt;足部穴位，双拇指按揉缓解头痛</data>
+  <data key="d3">chunk-81ee8bca53e14e3a61632f4a8fac5bd8&lt;SEP&gt;chunk-9acf13c84c152d550454908bd767f544&lt;SEP&gt;chunk-350eaf26444d6d2a164f951db9472eff</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626202</data>
+</node>
+<node id="头晕目眩">
+  <data key="d0">头晕目眩</data>
+  <data key="d1">category</data>
+  <data key="d2">眩晕症状，需按压百会、风池、翳风等穴位</data>
+  <data key="d3">chunk-9acf13c84c152d550454908bd767f544</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625570</data>
+</node>
+<node id="翳风">
+  <data key="d0">翳风</data>
+  <data key="d1">category</data>
+  <data key="d2">耳后乳突下方穴位，双拇指按压缓解面瘫症状&lt;SEP&gt;耳后穴位，中指按压治疗头晕</data>
+  <data key="d3">chunk-81ee8bca53e14e3a61632f4a8fac5bd8&lt;SEP&gt;chunk-9acf13c84c152d550454908bd767f544</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626003</data>
+</node>
+<node id="体质虚弱">
+  <data key="d0">体质虚弱</data>
+  <data key="d1">category</data>
+  <data key="d2">身体机能低下状态，通过中脘、胃俞、涌泉穴位调理</data>
+  <data key="d3">chunk-9acf13c84c152d550454908bd767f544</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625570</data>
+</node>
+<node id="中脘">
+  <data key="d0">中脘</data>
+  <data key="d1">category</data>
+  <data key="d2">胃经穴位，通过艾灶灸法产生痛感以达治疗效果。&lt;SEP&gt;腹部穴位，四指小范围按揉增强体质</data>
+  <data key="d3">chunk-9acf13c84c152d550454908bd767f544&lt;SEP&gt;chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626044</data>
+</node>
+<node id="中国">
+  <data key="d0">中国</data>
+  <data key="d1">geo</data>
+  <data key="d2">中华人民共和国，位于东亚，是世界上人口最多的国家，世界第二大经济体，在贸易冲突中作为主要参与方之一。</data>
+  <data key="d3">chunk-9acf13c84c152d550454908bd767f544</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625570</data>
+</node>
+<node id="四白">
+  <data key="d0">四白</data>
+  <data key="d3">chunk-81ee8bca53e14e3a61632f4a8fac5bd8&lt;SEP&gt;chunk-9acf13c84c152d550454908bd767f544&lt;SEP&gt;chunk-f92e7a0b993726b305b45afe33a767a8</data>
+  <data key="d2">位于面部的穴位，需双手食指同时按压以缓解牙痛&lt;SEP&gt;四白穴通过食指按压缓解牙痛&lt;SEP&gt;需双手食指按压的穴位，同时作用于黑眼圈和去皱防皱</data>
+  <data key="d1">category</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626003</data>
+</node>
+<node id="贸易冲突">
+  <data key="d0">贸易冲突</data>
+  <data key="d3">chunk-9acf13c84c152d550454908bd767f544</data>
+  <data key="d2">作为冲突直接参与方，承受美方关税压力并实施对等反制</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625570</data>
+</node>
+<node id="腰中">
+  <data key="d0">腰中</data>
+  <data key="d1">category</data>
+  <data key="d2">两乳头连线中点穴位，用于调理呼吸系统与循环系统疾病</data>
+  <data key="d3">chunk-f92e7a0b993726b305b45afe33a767a8</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625677</data>
+</node>
+<node id="晴明">
+  <data key="d0">晴明</data>
+  <data key="d1">category</data>
+  <data key="d2">需闭眼按压的眼部穴位，主要用于黑眼圈治疗</data>
+  <data key="d3">chunk-f92e7a0b993726b305b45afe33a767a8</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625677</data>
+</node>
+<node id="瞳子髎">
+  <data key="d0">瞳子髎</data>
+  <data key="d1">category</data>
+  <data key="d2">使用中指按压的面部穴位，用于防皱去皱</data>
+  <data key="d3">chunk-f92e7a0b993726b305b45afe33a767a8</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625677</data>
+</node>
+<node id="人迎">
+  <data key="d0">人迎</data>
+  <data key="d1">category</data>
+  <data key="d2">需指腹平推的颈部穴位，具有去皱功能</data>
+  <data key="d3">chunk-f92e7a0b993726b305b45afe33a767a8</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625677</data>
+</node>
+<node id="黑眼圈">
+  <data key="d0">黑眼圈</data>
+  <data key="d1">category</data>
+  <data key="d2">眼部症状治疗目标，通过肾俞/四白/晴明穴位联合调理</data>
+  <data key="d3">chunk-f92e7a0b993726b305b45afe33a767a8</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625677</data>
+</node>
+<node id="去皱防皱">
+  <data key="d0">去皱防皱</data>
+  <data key="d1">category</data>
+  <data key="d2">面部年轻化治疗方向，涉及瞳子髎/四白/人迎穴位组合</data>
+  <data key="d3">chunk-f92e7a0b993726b305b45afe33a767a8</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625677</data>
+</node>
+<node id="&lt;International Climate Summit&gt;">
+  <data key="d0">&lt;International Climate Summit&gt;</data>
+  <data key="d1">&lt;event&gt;</data>
+  <data key="d2">&lt;A global conference held in 2023 focusing on climate change mitigation strategies, attended by scientists, policymakers, and NGOs&gt;</data>
+  <data key="d3">chunk-f92e7a0b993726b305b45afe33a767a8</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625677</data>
+</node>
+<node id="&lt;Dr. Helena Carter&gt;">
+  <data key="d0">&lt;Dr. Helena Carter&gt;</data>
+  <data key="d3">chunk-f92e7a0b993726b305b45afe33a767a8</data>
+  <data key="d2">&lt;Dr. Carter delivered the keynote address on renewable energy solutions at the summit&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625677</data>
+</node>
+<node id="关元">
+  <data key="d0">关元</data>
+  <data key="d1">category</data>
+  <data key="d2">位于腹部的关键穴位，常用于治疗不孕症和产后宫缩痛，需仰卧并用四指叠按的方式进行按揉&lt;SEP&gt;关元穴是腹部重要穴位，针对月经量少或量多症状采用仰卧位双手中指叠放按揉法</data>
+  <data key="d3">chunk-d22f341589c46e49266a22362f0de221&lt;SEP&gt;chunk-4373d166e39a04f4351c5c380f639e0e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625850</data>
+</node>
+<node id="太冲">
+  <data key="d0">太冲</data>
+  <data key="d1">category</data>
+  <data key="d2">太冲穴位于足部，用于缓解月经异常症状，操作方式为食指按揉&lt;SEP&gt;足背穴位，通过食指按揉手法治疗习惯性流产&lt;SEP&gt;肝经原穴，食指按揉用于缓解输卵管炎症。</data>
+  <data key="d3">chunk-d22f341589c46e49266a22362f0de221&lt;SEP&gt;chunk-4373d166e39a04f4351c5c380f639e0e&lt;SEP&gt;chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626044</data>
+</node>
+<node id="水沟">
+  <data key="d0">水沟</data>
+  <data key="d1">category</data>
+  <data key="d2">面部穴位，需轻柔按揉以缓解产后腰痛</data>
+  <data key="d3">chunk-d22f341589c46e49266a22362f0de221</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625808</data>
+</node>
+<node id="不孕症">
+  <data key="d0">不孕症</data>
+  <data key="d1">event</data>
+  <data key="d2">妇科疾病治疗方案，包含关元、涌泉、肾俞等多个穴位的综合疗法</data>
+  <data key="d3">chunk-d22f341589c46e49266a22362f0de221</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625808</data>
+</node>
+<node id="习惯性流产">
+  <data key="d0">习惯性流产</data>
+  <data key="d1">event</data>
+  <data key="d2">妊娠并发症治疗方案，涉及关元、太冲、三阴交等穴位干预</data>
+  <data key="d3">chunk-d22f341589c46e49266a22362f0de221</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625808</data>
+</node>
+<node id="产后腰痛">
+  <data key="d0">产后腰痛</data>
+  <data key="d1">event</data>
+  <data key="d2">产后常见病症，采用水沟、命门、委中等穴位进行针对性治疗</data>
+  <data key="d3">chunk-d22f341589c46e49266a22362f0de221</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625808</data>
+</node>
+<node id="产后宫缩痛">
+  <data key="d0">产后宫缩痛</data>
+  <data key="d1">event</data>
+  <data key="d2">分娩后子宫收缩疼痛，通过中极、三阴交、足三里等穴位缓解</data>
+  <data key="d3">chunk-d22f341589c46e49266a22362f0de221</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625808</data>
+</node>
+<node id="TechCorp">
+  <data key="d0">TechCorp</data>
+  <data key="d1">organization</data>
+  <data key="d2">A technology company focused on developing sustainable solutions and green technologies.</data>
+  <data key="d3">chunk-d22f341589c46e49266a22362f0de221</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625808</data>
+</node>
+<node id="John Doe">
+  <data key="d0">John Doe</data>
+  <data key="d1">person</data>
+  <data key="d2">CEO of TechCorp, leading the company's initiatives in sustainability and corporate social responsibility.</data>
+  <data key="d3">chunk-d22f341589c46e49266a22362f0de221</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625808</data>
+</node>
+<node id="GreenEarth">
+  <data key="d0">GreenEarth</data>
+  <data key="d1">organization</data>
+  <data key="d2">An international environmental agency advocating for climate action and ecological preservation.</data>
+  <data key="d3">chunk-d22f341589c46e49266a22362f0de221</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625808</data>
+</node>
+<node id="Jane Smith">
+  <data key="d0">Jane Smith</data>
+  <data key="d1">person</data>
+  <data key="d2">Head of Partnerships at GreenEarth, coordinating cross-sector collaborations for sustainability projects.</data>
+  <data key="d3">chunk-d22f341589c46e49266a22362f0de221</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625808</data>
+</node>
+<node id="Global Sustainability Summit 2023">
+  <data key="d0">Global Sustainability Summit 2023</data>
+  <data key="d1">event</data>
+  <data key="d2">A high-profile conference held in New York to address global environmental challenges and innovations.</data>
+  <data key="d3">chunk-d22f341589c46e49266a22362f0de221</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625808</data>
+</node>
+<node id="New York">
+  <data key="d0">New York</data>
+  <data key="d1">geo</data>
+  <data key="d2">Host city of the Global Sustainability Summit 2023, a major hub for international policy and business activities.</data>
+  <data key="d3">chunk-d22f341589c46e49266a22362f0de221</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625808</data>
+</node>
+<node id="艾灸">
+  <data key="d0">艾灸</data>
+  <data key="d3">chunk-d22f341589c46e49266a22362f0de221</data>
+  <data key="d2">足三里穴位使用温灸器艾灸增强治疗效果</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625808</data>
+</node>
+<node id="期门">
+  <data key="d0">期门</data>
+  <data key="d1">category</data>
+  <data key="d2">期门穴在贫血治疗中采用双手中指叠放按压法</data>
+  <data key="d3">chunk-4373d166e39a04f4351c5c380f639e0e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625873</data>
+</node>
+<node id="水泉">
+  <data key="d0">水泉</data>
+  <data key="d1">category</data>
+  <data key="d2">水泉穴用于贫血治疗，采用艾灶灸法至痛感出现</data>
+  <data key="d3">chunk-4373d166e39a04f4351c5c380f639e0e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625873</data>
+</node>
+<node id="盲俞">
+  <data key="d0">盲俞</data>
+  <data key="d1">category</data>
+  <data key="d2">盲俞穴针对腰膝寒冷症状，操作方式为双手中指同时按压</data>
+  <data key="d3">chunk-4373d166e39a04f4351c5c380f639e0e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625873</data>
+</node>
+<node id="次髎">
+  <data key="d0">次髎</data>
+  <data key="d1">category</data>
+  <data key="d2">次髎穴在腰膝寒冷治疗中采用温灸器温灸10-20秒</data>
+  <data key="d3">chunk-4373d166e39a04f4351c5c380f639e0e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625873</data>
+</node>
+<node id="膈俞">
+  <data key="d0">膈俞</data>
+  <data key="d1">category</data>
+  <data key="d2">膈俞穴用于缓解妊娠反应，操作方式为仰卧握拳利用体重按压</data>
+  <data key="d3">chunk-4373d166e39a04f4351c5c380f639e0e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625873</data>
+</node>
+<node id="扶突">
+  <data key="d0">扶突</data>
+  <data key="d1">category</data>
+  <data key="d2">扶突穴针对妊娠反应采用中指按揉法</data>
+  <data key="d3">chunk-4373d166e39a04f4351c5c380f639e0e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625873</data>
+</node>
+<node id="月经量少或量多">
+  <data key="d0">月经量少或量多</data>
+  <data key="d1">category</data>
+  <data key="d2">月经异常症状的治疗方案涉及关元、肾俞、太冲等穴位按摩</data>
+  <data key="d3">chunk-4373d166e39a04f4351c5c380f639e0e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625873</data>
+</node>
+<node id="更年期综合症">
+  <data key="d0">更年期综合症</data>
+  <data key="d1">category</data>
+  <data key="d2">该症状治疗方案包含三阴交、肾俞、天枢等穴位的按压疗法</data>
+  <data key="d3">chunk-4373d166e39a04f4351c5c380f639e0e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625873</data>
+</node>
+<node id="贫血">
+  <data key="d0">贫血</data>
+  <data key="d1">category</data>
+  <data key="d2">贫血治疗涉及肝俞、期门穴位按压及水泉穴艾灸方法</data>
+  <data key="d3">chunk-4373d166e39a04f4351c5c380f639e0e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625873</data>
+</node>
+<node id="腰膝寒冷">
+  <data key="d0">腰膝寒冷</data>
+  <data key="d1">category</data>
+  <data key="d2">该症状采用盲俞按压、三阴交浴刷刺激及次髎温灸的综合疗法</data>
+  <data key="d3">chunk-4373d166e39a04f4351c5c380f639e0e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625873</data>
+</node>
+<node id="妊娠反应">
+  <data key="d0">妊娠反应</data>
+  <data key="d1">category</data>
+  <data key="d2">妊娠反应的缓解通过膈俞体重按压法和扶突穴按揉实现</data>
+  <data key="d3">chunk-4373d166e39a04f4351c5c380f639e0e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625873</data>
+</node>
+<node id="国际能源署">
+  <data key="d0">国际能源署</data>
+  <data key="d1">organization</data>
+  <data key="d2">国际能源署是一个政府间组织，致力于推动全球能源安全、经济发展和环境可持续性，定期发布能源市场报告和政策建议。</data>
+  <data key="d3">chunk-4373d166e39a04f4351c5c380f639e0e</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749625873</data>
+</node>
+<node id="下关">
+  <data key="d0">下关</data>
+  <data key="d1">category</data>
+  <data key="d2">颧骨下缘穴位，用拇指由下向上顶压治疗牙痛</data>
+  <data key="d3">chunk-81ee8bca53e14e3a61632f4a8fac5bd8</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626003</data>
+</node>
+<node id="大迎">
+  <data key="d0">大迎</data>
+  <data key="d1">category</data>
+  <data key="d2">下颌角前方穴位，按压可辅助治疗牙痛与面瘫</data>
+  <data key="d3">chunk-81ee8bca53e14e3a61632f4a8fac5bd8</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626003</data>
+</node>
+<node id="口臭">
+  <data key="d0">口臭</data>
+  <data key="d1">category</data>
+  <data key="d2">口腔异味症状，通过足三里、曲池、合谷等穴位按摩改善</data>
+  <data key="d3">chunk-81ee8bca53e14e3a61632f4a8fac5bd8</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626003</data>
+</node>
+<node id="慢性咽炎">
+  <data key="d0">慢性咽炎</data>
+  <data key="d1">category</data>
+  <data key="d2">咽喉部慢性炎症，通过大椎、天柱、肩井等穴位按压缓解</data>
+  <data key="d3">chunk-81ee8bca53e14e3a61632f4a8fac5bd8</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626003</data>
+</node>
+<node id="大椎">
+  <data key="d0">大椎</data>
+  <data key="d1">category</data>
+  <data key="d2">颈部第七颈椎棘突下穴位，两手中指叠压治疗咽炎</data>
+  <data key="d3">chunk-81ee8bca53e14e3a61632f4a8fac5bd8</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626003</data>
+</node>
+<node id="面瘫(贝尔麻痹)">
+  <data key="d0">面瘫(贝尔麻痹)</data>
+  <data key="d1">category</data>
+  <data key="d2">面部神经麻痹疾病，通过大迎、太白、翳风等穴位治疗</data>
+  <data key="d3">chunk-81ee8bca53e14e3a61632f4a8fac5bd8</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626003</data>
+</node>
+<node id="颞下颌关节紊乱综合征">
+  <data key="d0">颞下颌关节紊乱综合征</data>
+  <data key="d1">category</data>
+  <data key="d2">下颌关节功能障碍，通过下关、颊车、听会等穴位按压改善</data>
+  <data key="d3">chunk-81ee8bca53e14e3a61632f4a8fac5bd8</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626003</data>
+</node>
+<node id="颊车">
+  <data key="d0">颊车</data>
+  <data key="d1">category</data>
+  <data key="d2">下颌角咬肌隆起处穴位，双中指按压治疗下颌关节紊乱</data>
+  <data key="d3">chunk-81ee8bca53e14e3a61632f4a8fac5bd8</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626003</data>
+</node>
+<node id="便秘">
+  <data key="d0">便秘</data>
+  <data key="d1">category</data>
+  <data key="d2">排便困难症状，通过大巨、大肠俞、太白等穴位按摩调理</data>
+  <data key="d3">chunk-81ee8bca53e14e3a61632f4a8fac5bd8</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626003</data>
+</node>
+<node id="大巨">
+  <data key="d0">大巨</data>
+  <data key="d1">category</data>
+  <data key="d2">腹部穴位，仰卧屈膝时用中指按压促进肠道蠕动</data>
+  <data key="d3">chunk-81ee8bca53e14e3a61632f4a8fac5bd8</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626003</data>
+</node>
+<node id="输卵管炎">
+  <data key="d0">输卵管炎</data>
+  <data key="d1">category</data>
+  <data key="d2">生殖系统炎症，通过按揉太冲、足三里及三阴交穴位进行调理。</data>
+  <data key="d3">chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626044</data>
+</node>
+<node id="颈椎劳损">
+  <data key="d0">颈椎劳损</data>
+  <data key="d1">category</data>
+  <data key="d2">颈部肌肉过度使用导致的病症，需按压风池、天柱及列缺穴位缓解。</data>
+  <data key="d3">chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626044</data>
+</node>
+<node id="落枕">
+  <data key="d0">落枕</data>
+  <data key="d1">category</data>
+  <data key="d2">急性颈部肌肉扭伤，采用肺俞穴位按揉、身柱环形按揉及承筋温灸治疗。</data>
+  <data key="d3">chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626044</data>
+</node>
+<node id="肩周炎">
+  <data key="d0">肩周炎</data>
+  <data key="d1">category</data>
+  <data key="d2">肩关节周围炎症，通过巨骨、肩髃及肩贞穴位不同手法按摩改善。</data>
+  <data key="d3">chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626044</data>
+</node>
+<node id="腰背痛(骨质疏松)">
+  <data key="d0">腰背痛(骨质疏松)</data>
+  <data key="d1">category</data>
+  <data key="d2">骨骼退化引发的疼痛，主要采用肾俞穴位艾灸疗法。</data>
+  <data key="d3">chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626044</data>
+</node>
+<node id="肺俞">
+  <data key="d0">肺俞</data>
+  <data key="d1">category</data>
+  <data key="d2">膀胱经背部穴位，中指按揉对侧以治疗落枕。</data>
+  <data key="d3">chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626074</data>
+</node>
+<node id="身柱">
+  <data key="d0">身柱</data>
+  <data key="d1">category</data>
+  <data key="d2">督脉穴位，大范围环形按揉改善颈部活动受限。</data>
+  <data key="d3">chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626074</data>
+</node>
+<node id="承筋">
+  <data key="d0">承筋</data>
+  <data key="d1">category</data>
+  <data key="d2">膀胱经小腿穴位，温灸疗法缓解急性颈部疼痛。</data>
+  <data key="d3">chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626074</data>
+</node>
+<node id="巨骨">
+  <data key="d0">巨骨</data>
+  <data key="d1">category</data>
+  <data key="d2">大肠经肩部穴位，中指按揉对侧治疗肩周炎。</data>
+  <data key="d3">chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626074</data>
+</node>
+<node id="肩髃">
+  <data key="d0">肩髃</data>
+  <data key="d1">category</data>
+  <data key="d2">大肠经关键穴位，四指环形按揉改善肩关节活动。</data>
+  <data key="d3">chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626074</data>
+</node>
+<node id="肩贞">
+  <data key="d0">肩贞</data>
+  <data key="d1">category</data>
+  <data key="d2">小肠经穴位，小范围按揉用于精准缓解肩部炎症。</data>
+  <data key="d3">chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626074</data>
+</node>
+<node id="阿里巴巴集团">
+  <data key="d0">阿里巴巴集团</data>
+  <data key="d1">organization</data>
+  <data key="d2">中国领先的电子商务和科技公司，业务涵盖零售、云计算、金融科技等领域，由马云于1999年创立</data>
+  <data key="d3">chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626104</data>
+</node>
+<node id="World Health Organization">
+  <data key="d0">World Health Organization</data>
+  <data key="d1">organization</data>
+  <data key="d2">An international organization responsible for global public health, coordinating international health responses and setting health standards</data>
+  <data key="d3">chunk-350eaf26444d6d2a164f951db9472eff</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1749626202</data>
+</node>
+<edge source="阴陵柏" target="血海">
+  <data key="d6">8.0</data>
+  <data key="d7">两者均为妇科疾病治疗的关键穴位，阴陵柏侧重生殖泌尿系统，血海专攻月经相关症状。</data>
+  <data key="d8">妇科协同,症状互补</data>
+  <data key="d9">chunk-8435fd0e4a6125da7b5c7405416a26dd</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624571</data>
+</edge>
+<edge source="血海" target="痛经、月经周期不规则">
+  <data key="d6">9.0</data>
+  <data key="d7">血海穴通过活血化瘀功能改善痛经症状</data>
+  <data key="d8">活血化瘀,痛经缓解</data>
+  <data key="d9">chunk-6d76ee81aa2946631949c43fd43ba0c2</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625535</data>
+</edge>
+<edge source="少海" target="手少阴心经">
+  <data key="d6">9.0</data>
+  <data key="d7">少海是手少阴心经的组成部分，其功效直接关联该经络对神经系统的调节作用。</data>
+  <data key="d8">功能载体,经络归属</data>
+  <data key="d9">chunk-8435fd0e4a6125da7b5c7405416a26dd</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624571</data>
+</edge>
+<edge source="少海" target="神门">
+  <data key="d6">7.0</data>
+  <data key="d7">同属手少阴心经，少海针对肢体麻木，神门专注心脏调节，共同体现经络的多维治疗维度。</data>
+  <data key="d8">症状覆盖,经络协同</data>
+  <data key="d9">chunk-8435fd0e4a6125da7b5c7405416a26dd</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624571</data>
+</edge>
+<edge source="神门" target="手少阴心经">
+  <data key="d6">9.0</data>
+  <data key="d7">神门作为手少阴心经穴位，承担调节心脏功能的核心作用，体现经络与器官的对应关系。</data>
+  <data key="d8">功能映射,心经核心</data>
+  <data key="d9">chunk-8435fd0e4a6125da7b5c7405416a26dd</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624571</data>
+</edge>
+<edge source="手阳明大肠经" target="曲池">
+  <data key="d6">18.0</data>
+  <data key="d7">曲池作为大肠经枢纽穴位，反映经络系统的治疗特性&lt;SEP&gt;曲池是手阳明大肠经上的核心穴位，直接隶属于该经络系统。</data>
+  <data key="d8">免疫调节,穴位定位,经络归属,经络枢纽</data>
+  <data key="d9">chunk-0f5003d091761662a1ad9fabadd04fd5&lt;SEP&gt;chunk-fc101419690dc39ac6a4d49c48a4637a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624707</data>
+</edge>
+<edge source="手阳明大肠经" target="合谷">
+  <data key="d6">8.0</data>
+  <data key="d7">合谷穴属于手阳明大肠经，是其治疗面部疾病的关键穴位。</data>
+  <data key="d8">疾病治疗,经络系统</data>
+  <data key="d9">chunk-fc101419690dc39ac6a4d49c48a4637a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624588</data>
+</edge>
+<edge source="手阳明大肠经" target="手三里">
+  <data key="d6">8.0</data>
+  <data key="d7">手三里为手阳明大肠经穴位，负责缓解上肢及腹部相关症状。</data>
+  <data key="d8">功能定位,症状缓解</data>
+  <data key="d9">chunk-fc101419690dc39ac6a4d49c48a4637a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624588</data>
+</edge>
+<edge source="曲池" target="列缺">
+  <data key="d6">7.0</data>
+  <data key="d7">列缺与曲池分属表里经络，共同构成中医整体治疗体系</data>
+  <data key="d8">系统治疗,表里配合</data>
+  <data key="d9">chunk-0f5003d091761662a1ad9fabadd04fd5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624707</data>
+</edge>
+<edge source="曲池" target="口臭">
+  <data key="d6">7.0</data>
+  <data key="d7">曲池穴位按揉通过调节体内湿热缓解口臭</data>
+  <data key="d8">湿热调理,间接治疗</data>
+  <data key="d9">chunk-81ee8bca53e14e3a61632f4a8fac5bd8</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749626003</data>
+</edge>
+<edge source="合谷" target="头痛">
+  <data key="d6">8.0</data>
+  <data key="d7">合谷穴对头痛症状具有明确治疗效果。</data>
+  <data key="d8">症状缓解,穴位疗法</data>
+  <data key="d9">chunk-fc101419690dc39ac6a4d49c48a4637a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624588</data>
+</edge>
+<edge source="合谷" target="牙痛">
+  <data key="d6">9.0</data>
+  <data key="d7">按压合谷穴可直接缓解牙痛问题。</data>
+  <data key="d8">对症治疗,快速止痛</data>
+  <data key="d9">chunk-fc101419690dc39ac6a4d49c48a4637a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624588</data>
+</edge>
+<edge source="合谷" target="感冒">
+  <data key="d6">7.0</data>
+  <data key="d7">合谷穴被用于辅助治疗感冒症状。</data>
+  <data key="d8">免疫调节,疾病预防</data>
+  <data key="d9">chunk-fc101419690dc39ac6a4d49c48a4637a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624588</data>
+</edge>
+<edge source="合谷" target="口臭">
+  <data key="d6">7.0</data>
+  <data key="d7">合谷穴位按压促进消化系统健康以减少口臭</data>
+  <data key="d8">功能协同,消化调节</data>
+  <data key="d9">chunk-81ee8bca53e14e3a61632f4a8fac5bd8</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749626003</data>
+</edge>
+<edge source="手三里" target="腹痛">
+  <data key="d6">8.0</data>
+  <data key="d7">手三里穴按压可有效缓解腹痛症状。</data>
+  <data key="d8">急性缓解,消化系统</data>
+  <data key="d9">chunk-fc101419690dc39ac6a4d49c48a4637a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624588</data>
+</edge>
+<edge source="手三里" target="腹泻">
+  <data key="d6">7.0</data>
+  <data key="d7">手三里穴对腹泻具有治疗作用。</data>
+  <data key="d8">症状改善,肠道功能</data>
+  <data key="d9">chunk-fc101419690dc39ac6a4d49c48a4637a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624588</data>
+</edge>
+<edge source="手三里" target="肩背部疾病">
+  <data key="d6">7.0</data>
+  <data key="d7">手三里穴可缓解肩背部疾病相关疼痛。</data>
+  <data key="d8">肌肉骨骼,长期调理</data>
+  <data key="d9">chunk-fc101419690dc39ac6a4d49c48a4637a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624588</data>
+</edge>
+<edge source="足阳明胃经" target="头维">
+  <data key="d6">9.0</data>
+  <data key="d7">头维穴归属于足阳明胃经，主治神经系统疾病。</data>
+  <data key="d8">神经调节,经络关联</data>
+  <data key="d9">chunk-fc101419690dc39ac6a4d49c48a4637a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624588</data>
+</edge>
+<edge source="足阳明胃经" target="天枢">
+  <data key="d6">7.0</data>
+  <data key="d7">天枢穴是足阳明胃经的重要穴位，推测与消化功能相关。</data>
+  <data key="d8">消化系统,穴位功能</data>
+  <data key="d9">chunk-fc101419690dc39ac6a4d49c48a4637a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624588</data>
+</edge>
+<edge source="头维" target="三叉神经痛">
+  <data key="d6">8.0</data>
+  <data key="d7">头维穴是三叉神经痛的主要治疗穴位之一。</data>
+  <data key="d8">神经痛缓解,靶向治疗</data>
+  <data key="d9">chunk-fc101419690dc39ac6a4d49c48a4637a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624588</data>
+</edge>
+<edge source="头维" target="偏头痛">
+  <data key="d6">9.0</data>
+  <data key="d7">头维穴对偏头痛有显著抑制效果。</data>
+  <data key="d8">慢性病管理,疼痛控制</data>
+  <data key="d9">chunk-fc101419690dc39ac6a4d49c48a4637a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624588</data>
+</edge>
+<edge source="头维" target="高血压">
+  <data key="d6">7.0</data>
+  <data key="d7">头维穴可通过调节神经系统辅助控制高血压。</data>
+  <data key="d8">综合疗法,血压调节</data>
+  <data key="d9">chunk-fc101419690dc39ac6a4d49c48a4637a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624588</data>
+</edge>
+<edge source="天枢" target="大肠疾病">
+  <data key="d6">9.0</data>
+  <data key="d7">天枢穴通过促进肠胃蠕动直接调理大肠疾病，是其核心治疗功能。</data>
+  <data key="d8">穴位治疗,肠胃调理</data>
+  <data key="d9">chunk-c48b52943b8bb9abe281216a2bab50af</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625195</data>
+</edge>
+<edge source="天枢" target="减肥减脂">
+  <data key="d6">9.0</data>
+  <data key="d7">天枢穴直接作用于腹部脂肪代谢，是减脂疗法的靶向穴位</data>
+  <data key="d8">肠道调节,靶向减脂</data>
+  <data key="d9">chunk-6d76ee81aa2946631949c43fd43ba0c2</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625535</data>
+</edge>
+<edge source="头痛" target="督脉">
+  <data key="d6">10.0</data>
+  <data key="d7">督脉循行头部，主治各类头部病症包括头痛头晕</data>
+  <data key="d8">头部疾病,经脉主治</data>
+  <data key="d9">chunk-854e74f26b5650173f02626ee3b278af</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625343</data>
+</edge>
+<edge source="牙痛" target="四白">
+  <data key="d6">17.0</data>
+  <data key="d7">四白穴位通过双手食指按压直接用于缓解牙痛症状&lt;SEP&gt;四白穴通过食指按压缓解牙痛</data>
+  <data key="d8">局部治疗,症状缓解,穴位治疗</data>
+  <data key="d9">chunk-81ee8bca53e14e3a61632f4a8fac5bd8&lt;SEP&gt;chunk-9acf13c84c152d550454908bd767f544</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749626003</data>
+</edge>
+<edge source="牙痛" target="下关">
+  <data key="d6">8.0</data>
+  <data key="d7">下关穴位用拇指顶压法治疗牙痛，属直接对应疗法</data>
+  <data key="d8">局部治疗,疼痛缓解</data>
+  <data key="d9">chunk-81ee8bca53e14e3a61632f4a8fac5bd8</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749626003</data>
+</edge>
+<edge source="牙痛" target="大迎">
+  <data key="d6">7.0</data>
+  <data key="d7">大迎穴位按压作为牙痛治疗的辅助手段</data>
+  <data key="d8">症状管理,联合治疗</data>
+  <data key="d9">chunk-81ee8bca53e14e3a61632f4a8fac5bd8</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749626003</data>
+</edge>
+<edge source="手太阴肺经" target="尺泽">
+  <data key="d6">10.0</data>
+  <data key="d7">尺泽是手太阴肺经的核心穴位，体现经络与穴位的从属关系</data>
+  <data key="d8">穴位归属,经络系统</data>
+  <data key="d9">chunk-0f5003d091761662a1ad9fabadd04fd5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624707</data>
+</edge>
+<edge source="手太阴肺经" target="列缺">
+  <data key="d6">9.0</data>
+  <data key="d7">列缺作为四总穴代表，承载肺经与大肠经的表里关联</data>
+  <data key="d8">表里经络,要穴功能</data>
+  <data key="d9">chunk-0f5003d091761662a1ad9fabadd04fd5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624707</data>
+</edge>
+<edge source="手太阴肺经" target="鱼际">
+  <data key="d6">8.0</data>
+  <data key="d7">鱼际通过调节肺经气血改善慢性病症，展现经络治疗原理</data>
+  <data key="d8">慢性病治疗,气血调理</data>
+  <data key="d9">chunk-0f5003d091761662a1ad9fabadd04fd5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624707</data>
+</edge>
+<edge source="列缺" target="颈椎劳损">
+  <data key="d6">7.0</data>
+  <data key="d7">对侧按压列缺穴位通过肺经调节颈部气机</data>
+  <data key="d8">对侧治疗,经络调节</data>
+  <data key="d9">chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749626104</data>
+</edge>
+<edge source="北京" target="绿色科技公司">
+  <data key="d6">0.9</data>
+  <data key="d7">公司总部设立于北京，并在此建立研发中心</data>
+  <data key="d8">Headquarters; Operations</data>
+  <data key="d9">chunk-0f5003d091761662a1ad9fabadd04fd5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624707</data>
+</edge>
+<edge source="北京" target="全球气候峰会">
+  <data key="d6">0.8</data>
+  <data key="d7">北京市政府作为主办方，提供场地与基础设施支持</data>
+  <data key="d8">Hosting; Logistics</data>
+  <data key="d9">chunk-0f5003d091761662a1ad9fabadd04fd5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624707</data>
+</edge>
+<edge source="张伟明" target="绿色科技公司">
+  <data key="d6">0.95</data>
+  <data key="d7">张伟明担任公司CEO，直接负责制定技术研发与碳中和战略</data>
+  <data key="d8">Leadership; Strategy</data>
+  <data key="d9">chunk-0f5003d091761662a1ad9fabadd04fd5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624707</data>
+</edge>
+<edge source="全球气候峰会" target="碳中和倡议">
+  <data key="d6">0.85</data>
+  <data key="d7">峰会发布《北京宣言》，明确将碳中和倡议纳入国际协作框架</data>
+  <data key="d8">Policy; Collaboration</data>
+  <data key="d9">chunk-0f5003d091761662a1ad9fabadd04fd5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624707</data>
+</edge>
+<edge source="亚洲开发银行" target="绿色科技公司">
+  <data key="d6">0.88</data>
+  <data key="d7">银行为公司太阳能项目提供2亿美元低息贷款</data>
+  <data key="d8">Funding; Partnership</data>
+  <data key="d9">chunk-0f5003d091761662a1ad9fabadd04fd5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624707</data>
+</edge>
+<edge source="手厥阴心包经" target="内关">
+  <data key="d6">9.0</data>
+  <data key="d7">内关穴归属于手厥阴心包经，是该经络的关键治疗点位。</data>
+  <data key="d8">功能关联,经络穴位</data>
+  <data key="d9">chunk-615d3d516f65aa14b922d14bdf222e04</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624787</data>
+</edge>
+<edge source="手厥阴心包经" target="劳宫">
+  <data key="d6">8.0</data>
+  <data key="d7">劳宫穴是手厥阴心包经上的重要穴位，负责调节心火相关症状。</data>
+  <data key="d8">病症对应,经络系统</data>
+  <data key="d9">chunk-615d3d516f65aa14b922d14bdf222e04</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624787</data>
+</edge>
+<edge source="手厥阴心包经" target="中冲">
+  <data key="d6">7.0</data>
+  <data key="d7">中冲穴属于手厥阴心包经末端的急救穴位，体现经络的紧急救治功能。</data>
+  <data key="d8">急救关联,经络延伸</data>
+  <data key="d9">chunk-615d3d516f65aa14b922d14bdf222e04</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624787</data>
+</edge>
+<edge source="手厥阴心包经" target="内关穴">
+  <data key="d6">8.0</data>
+  <data key="d7">内关穴是手厥阴心包经的核心穴位，具有调节心血管功能的作用</data>
+  <data key="d8">功能调节,心包经要穴</data>
+  <data key="d9">chunk-5e07807ab404dfe983a5059148f23b13</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624807</data>
+</edge>
+<edge source="内关" target="劳宫">
+  <data key="d6">6.0</data>
+  <data key="d7">两穴同属手厥阴心包经，分别针对消化系统与火热病症，形成功能互补。</data>
+  <data key="d8">协同治疗,病症覆盖</data>
+  <data key="d9">chunk-615d3d516f65aa14b922d14bdf222e04</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624787</data>
+</edge>
+<edge source="劳宫" target="中冲">
+  <data key="d6">7.0</data>
+  <data key="d7">劳宫主治慢性火热症状，中冲专攻急性急救，体现病症处理的层次性。</data>
+  <data key="d8">功能分化,急缓结合</data>
+  <data key="d9">chunk-615d3d516f65aa14b922d14bdf222e04</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624787</data>
+</edge>
+<edge source="中国科学技术协会" target="2023全球人工智能大会">
+  <data key="d6">9.0</data>
+  <data key="d7">作为大会主办方负责整体策划与资源协调</data>
+  <data key="d8">主办关系</data>
+  <data key="d9">chunk-615d3d516f65aa14b922d14bdf222e04</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624787</data>
+</edge>
+<edge source="涌泉穴" target="足少阴肾经">
+  <data key="d6">9.0</data>
+  <data key="d7">涌泉穴是足少阴肾经的起始穴位，归属该经络系统管辖</data>
+  <data key="d8">穴位系统,经络归属</data>
+  <data key="d9">chunk-5e07807ab404dfe983a5059148f23b13</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624807</data>
+</edge>
+<edge source="涌泉穴" target="太溪穴">
+  <data key="d6">6.0</data>
+  <data key="d7">同属足少阴肾经的上下游穴位，在治疗泌尿系统疾病时形成协同效应</data>
+  <data key="d8">治疗体系,穴位协同</data>
+  <data key="d9">chunk-5e07807ab404dfe983a5059148f23b13</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624807</data>
+</edge>
+<edge source="太溪穴" target="足少阴肾经">
+  <data key="d6">8.0</data>
+  <data key="d7">太溪穴作为足少阴肾经原穴，承担调节肾经气血的重要功能</data>
+  <data key="d8">原穴定位,气血调节</data>
+  <data key="d9">chunk-5e07807ab404dfe983a5059148f23b13</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624807</data>
+</edge>
+<edge source="照海穴" target="足少阴肾经">
+  <data key="d6">7.0</data>
+  <data key="d7">照海穴属于足少阴肾经要穴，主治该经络相关的妇科疾病</data>
+  <data key="d8">病症主治,经络关联</data>
+  <data key="d9">chunk-5e07807ab404dfe983a5059148f23b13</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624807</data>
+</edge>
+<edge source="美国国家航空航天局" target="国际空间站">
+  <data key="d6">9.2</data>
+  <data key="d7">NASA是国际空间站的主要运营方之一，负责协调科研任务和人员轮换</data>
+  <data key="d8">太空合作; 科研管理</data>
+  <data key="d9">chunk-5e07807ab404dfe983a5059148f23b13</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624807</data>
+</edge>
+<edge source="美国国家航空航天局" target="阿尔忒弥斯计划">
+  <data key="d6">9.8</data>
+  <data key="d7">NASA作为主导机构全面负责该计划的资金调配、技术研发和任务实施</data>
+  <data key="d8">项目管理; 太空探索</data>
+  <data key="d9">chunk-5e07807ab404dfe983a5059148f23b13</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624807</data>
+</edge>
+<edge source="阿尔忒弥斯计划" target="欧洲航天局">
+  <data key="d6">8.7</data>
+  <data key="d7">欧空局为阿尔忒弥斯计划提供猎户座飞船服务舱和月球门户模块，并参与宇航员培训</data>
+  <data key="d8">技术协作; 资源整合</data>
+  <data key="d9">chunk-5e07807ab404dfe983a5059148f23b13</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624807</data>
+</edge>
+<edge source="黯风" target="角孙">
+  <data key="d6">7.0</data>
+  <data key="d7">两者均为头部穴位且均可缓解头痛症状</data>
+  <data key="d8">症状缓解协同</data>
+  <data key="d9">chunk-c7507a9d23acffadbee79a4da90bba1e</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624915</data>
+</edge>
+<edge source="黯风" target="听会">
+  <data key="d6">6.0</data>
+  <data key="d7">两穴位均可治疗腮腺炎和牙痛</data>
+  <data key="d8">症状治疗重叠</data>
+  <data key="d9">chunk-c7507a9d23acffadbee79a4da90bba1e</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624915</data>
+</edge>
+<edge source="听会" target="足少阳胆经">
+  <data key="d6">9.0</data>
+  <data key="d7">听会穴归属于足少阳胆经的经络系统</data>
+  <data key="d8">经络穴位归属</data>
+  <data key="d9">chunk-c7507a9d23acffadbee79a4da90bba1e</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624915</data>
+</edge>
+<edge source="肩井" target="足少阳胆经">
+  <data key="d6">9.0</data>
+  <data key="d7">肩井穴是足少阳胆经上的关键穴位</data>
+  <data key="d8">经络穴位归属</data>
+  <data key="d9">chunk-c7507a9d23acffadbee79a4da90bba1e</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624915</data>
+</edge>
+<edge source="肩井" target="母乳不畅">
+  <data key="d6">9.0</data>
+  <data key="d7">肩井穴位通过颈部侧倾配合拇指按压手法治疗母乳不畅症状</data>
+  <data key="d8">症状治疗,穴位应用</data>
+  <data key="d9">chunk-8cbc8c93c5971f54a9f5b3b386be05ed</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625345</data>
+</edge>
+<edge source="肩井" target="减肥减脂">
+  <data key="d6">8.0</data>
+  <data key="d7">肩井穴通过调节全身气机加速代谢，在减肥方案中起枢纽作用</data>
+  <data key="d8">代谢加速,气机调节</data>
+  <data key="d9">chunk-6d76ee81aa2946631949c43fd43ba0c2</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625535</data>
+</edge>
+<edge source="手太阳小肠经" target="后溪">
+  <data key="d6">9.0</data>
+  <data key="d7">后溪穴是手太阳小肠经的核心穴位之一，归属该经络系统管辖</data>
+  <data key="d8">经络穴位归属</data>
+  <data key="d9">chunk-0ec5412ebe21e8c107bf7a62870a881d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624956</data>
+</edge>
+<edge source="手太阳小肠经" target="阳谷">
+  <data key="d6">8.0</data>
+  <data key="d7">阳谷穴属于手太阳小肠经的组成部分，共同作用于相关病症</data>
+  <data key="d8">经络穴位系统</data>
+  <data key="d9">chunk-0ec5412ebe21e8c107bf7a62870a881d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624956</data>
+</edge>
+<edge source="手太阳小肠经" target="天宗">
+  <data key="d6">6.0</data>
+  <data key="d7">天宗穴虽位于肩胛区，但通过经络关联对手太阳小肠经病症有辅助疗效</data>
+  <data key="d8">跨区域经络关联</data>
+  <data key="d9">chunk-0ec5412ebe21e8c107bf7a62870a881d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624956</data>
+</edge>
+<edge source="手太阳小肠经" target="听宫">
+  <data key="d6">8.0</data>
+  <data key="d7">听宫穴归属于手太阳小肠经，体现该经络对五官功能的调控作用</data>
+  <data key="d8">五官功能调控</data>
+  <data key="d9">chunk-0ec5412ebe21e8c107bf7a62870a881d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624956</data>
+</edge>
+<edge source="后溪" target="阳谷">
+  <data key="d6">7.0</data>
+  <data key="d7">两穴位同属手太阳小肠经，协同治疗上肢与关节疾病</data>
+  <data key="d8">协同治疗作用</data>
+  <data key="d9">chunk-0ec5412ebe21e8c107bf7a62870a881d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749624956</data>
+</edge>
+<edge source="阿里巴巴" target="马云">
+  <data key="d6">0.95</data>
+  <data key="d7">马云作为创始人和永久合伙人持续影响阿里巴巴战略方向与组织文化</data>
+  <data key="d8">公司治理,商业领导</data>
+  <data key="d9">chunk-723b76b51e6db1b562b081821c1725f6</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625050</data>
+</edge>
+<edge source="阿里巴巴" target="东南亚">
+  <data key="d6">0.88</data>
+  <data key="d7">通过收购Lazada控股股权建立区域性电商生态系统</data>
+  <data key="d8">市场扩张,跨境投资</data>
+  <data key="d9">chunk-723b76b51e6db1b562b081821c1725f6</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625050</data>
+</edge>
+<edge source="阿里巴巴" target="碳中和计划">
+  <data key="d6">0.85</data>
+  <data key="d7">集团将投入专项资金推进供应链脱碳与可再生能源应用</data>
+  <data key="d8">可持续发展,环境治理</data>
+  <data key="d9">chunk-723b76b51e6db1b562b081821c1725f6</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625050</data>
+</edge>
+<edge source="阿里巴巴" target="达摩院">
+  <data key="d6">0.91</data>
+  <data key="d7">作为核心研发机构支撑阿里云与AI商业化的技术突破</data>
+  <data key="d8">技术创新,生态赋能</data>
+  <data key="d9">chunk-723b76b51e6db1b562b081821c1725f6</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625050</data>
+</edge>
+<edge source="马云" target="数字丝绸之路">
+  <data key="d6">0.82</data>
+  <data key="d7">提出并推动跨境数字贸易基础设施建设构想</data>
+  <data key="d8">战略规划,政策响应</data>
+  <data key="d9">chunk-723b76b51e6db1b562b081821c1725f6</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625050</data>
+</edge>
+<edge source="马云" target="阿里巴巴集团">
+  <data key="d6">0.9</data>
+  <data key="d7">马云是阿里巴巴集团的创始人和核心领导者，直接塑造了公司战略与文化</data>
+  <data key="d8">创始人;领导力</data>
+  <data key="d9">chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749626104</data>
+</edge>
+<edge source="足太阳膀胱经" target="描竹">
+  <data key="d6">9.0</data>
+  <data key="d7">描竹是足太阳膀胱经上的穴位之一，归属于该经络系统。</data>
+  <data key="d8">穴位归属,经络系统</data>
+  <data key="d9">chunk-2371e5fab486dbc4f9322b0585152b17</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625109</data>
+</edge>
+<edge source="足太阳膀胱经" target="腾俞">
+  <data key="d6">8.0</data>
+  <data key="d7">腾俞属于足太阳膀胱经，其定位与功能均基于该经络理论。</data>
+  <data key="d8">病症治疗,经络系统</data>
+  <data key="d9">chunk-2371e5fab486dbc4f9322b0585152b17</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625109</data>
+</edge>
+<edge source="足太阳膀胱经" target="大肠俞">
+  <data key="d6">8.0</data>
+  <data key="d7">大肠俞是足太阳膀胱经的组成部分，功能与调理肠腑密切相关。</data>
+  <data key="d8">经络关联,脏腑调理</data>
+  <data key="d9">chunk-2371e5fab486dbc4f9322b0585152b17</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625109</data>
+</edge>
+<edge source="足太阳膀胱经" target="委中">
+  <data key="d6">9.0</data>
+  <data key="d7">委中穴归属于足太阳膀胱经，是其缓解腰背症状的关键穴位。</data>
+  <data key="d8">疼痛缓解,经络定位</data>
+  <data key="d9">chunk-2371e5fab486dbc4f9322b0585152b17</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625109</data>
+</edge>
+<edge source="足太阳膀胱经" target="承山">
+  <data key="d6">7.0</data>
+  <data key="d7">承山穴属于足太阳膀胱经，用于治疗足部相关病症。</data>
+  <data key="d8">经络连接,足部治疗</data>
+  <data key="d9">chunk-2371e5fab486dbc4f9322b0585152b17</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625109</data>
+</edge>
+<edge source="大肠俞" target="减肥减脂">
+  <data key="d6">8.0</data>
+  <data key="d7">大肠俞通过增强排泄功能实现减重效果，体现中医通腑降浊理念</data>
+  <data key="d8">排泄调节,通腑降浊</data>
+  <data key="d9">chunk-6d76ee81aa2946631949c43fd43ba0c2</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625535</data>
+</edge>
+<edge source="大肠俞" target="太白">
+  <data key="d6">6.0</data>
+  <data key="d7">两个穴位均属于中医经络系统中的重要治疗穴位，分别对应不同脏腑的调理功能。</data>
+  <data key="d8">中医理论,穴位关联</data>
+  <data key="d9">chunk-350eaf26444d6d2a164f951db9472eff</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749626202</data>
+</edge>
+<edge source="&lt;中国共产党&gt;" target="&lt;习近平总书记&gt;">
+  <data key="d6">1.0</data>
+  <data key="d7">&lt;习近平总书记作为党的最高领导人主持百年庆祝活动并制定战略方针&gt;</data>
+  <data key="d8">&lt;政治领导&gt;</data>
+  <data key="d9">chunk-2371e5fab486dbc4f9322b0585152b17</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625109</data>
+</edge>
+<edge source="犊鼻" target="关节炎">
+  <data key="d6">8.0</data>
+  <data key="d7">犊鼻穴的按摩可缓解关节炎、风湿等关节炎症症状。</data>
+  <data key="d8">关节健康,疼痛缓解</data>
+  <data key="d9">chunk-c48b52943b8bb9abe281216a2bab50af</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625195</data>
+</edge>
+<edge source="足三里" target="慢性疾病">
+  <data key="d6">10.0</data>
+  <data key="d7">足三里穴被誉为多功能健康穴，对多种慢性疾病有广泛疗效。</data>
+  <data key="d8">健康维护,慢性病管理</data>
+  <data key="d9">chunk-c48b52943b8bb9abe281216a2bab50af</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625195</data>
+</edge>
+<edge source="足三里" target="腰背痛">
+  <data key="d6">8.0</data>
+  <data key="d7">按压足三里穴辅助缓解腰背疼痛</data>
+  <data key="d8">症状缓解</data>
+  <data key="d9">chunk-9acf13c84c152d550454908bd767f544</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625570</data>
+</edge>
+<edge source="足三里" target="艾灸">
+  <data key="d6">7.0</data>
+  <data key="d7">足三里穴位使用温灸器艾灸增强治疗效果</data>
+  <data key="d8">传统疗法,温经通络</data>
+  <data key="d9">chunk-d22f341589c46e49266a22362f0de221</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625808</data>
+</edge>
+<edge source="足三里" target="口臭">
+  <data key="d6">8.0</data>
+  <data key="d7">足三里调理肠胃功能，间接改善口臭问题</data>
+  <data key="d8">全身调理,功能改善</data>
+  <data key="d9">chunk-81ee8bca53e14e3a61632f4a8fac5bd8</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749626003</data>
+</edge>
+<edge source="足三里" target="输卵管炎">
+  <data key="d6">7.0</data>
+  <data key="d7">拇指按压足三里增强免疫力以对抗生殖系统感染</data>
+  <data key="d8">免疫调节,穴位刺激</data>
+  <data key="d9">chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749626104</data>
+</edge>
+<edge source="三阴交" target="妇科病">
+  <data key="d6">9.0</data>
+  <data key="d7">三阴交穴是中医治疗妇科疾病的首选特效穴位。</data>
+  <data key="d8">妇科治疗,穴位特效</data>
+  <data key="d9">chunk-c48b52943b8bb9abe281216a2bab50af</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625195</data>
+</edge>
+<edge source="三阴交" target="足太阴脾经">
+  <data key="d6">7.0</data>
+  <data key="d7">三阴交穴属于足太阴脾经的组成部分，体现经络与穴位的从属关系。</data>
+  <data key="d8">穴位归属,经络系统</data>
+  <data key="d9">chunk-c48b52943b8bb9abe281216a2bab50af</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625195</data>
+</edge>
+<edge source="三阴交" target="慢性盆腔灵">
+  <data key="d6">9.0</data>
+  <data key="d7">三阴交平推手法增强盆腔整体调理效果</data>
+  <data key="d8">手法协同,综合调理</data>
+  <data key="d9">chunk-8cbc8c93c5971f54a9f5b3b386be05ed</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625345</data>
+</edge>
+<edge source="三阴交" target="子宫脱垂">
+  <data key="d6">9.0</data>
+  <data key="d7">三阴交平推法提升盆底肌肉支撑力</data>
+  <data key="d8">手法升提,肌肉强化</data>
+  <data key="d9">chunk-8cbc8c93c5971f54a9f5b3b386be05ed</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625345</data>
+</edge>
+<edge source="三阴交" target="子宫后位">
+  <data key="d6">17.0</data>
+  <data key="d7">三阴交双侧同步按压法矫正子宫位置&lt;SEP&gt;子宫后位治疗方案包含双手拇指按压三阴交穴位以调节妇科功能</data>
+  <data key="d8">双侧协同,妇科调理,穴位治疗,解剖复位</data>
+  <data key="d9">chunk-8cbc8c93c5971f54a9f5b3b386be05ed&lt;SEP&gt;chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749626104</data>
+</edge>
+<edge source="三阴交" target="美白祛斑">
+  <data key="d6">9.0</data>
+  <data key="d7">三阴交通过调和肝脾肾三经增强美白疗效，体现整体调理思维</data>
+  <data key="d8">三经调和,整体疗法</data>
+  <data key="d9">chunk-6d76ee81aa2946631949c43fd43ba0c2</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625535</data>
+</edge>
+<edge source="三阴交" target="痛经、月经周期不规则">
+  <data key="d6">10.0</data>
+  <data key="d7">三阴交作为妇科要穴，在该疗法中起核心调节作用</data>
+  <data key="d8">周期调节,妇科要穴</data>
+  <data key="d9">chunk-6d76ee81aa2946631949c43fd43ba0c2</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625535</data>
+</edge>
+<edge source="三阴交" target="输卵管炎">
+  <data key="d6">9.0</data>
+  <data key="d7">三阴交作为妇科核心穴位被重复应用于不同生殖系统疾病</data>
+  <data key="d8">交叉治疗,多病症应用</data>
+  <data key="d9">chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749626104</data>
+</edge>
+<edge source="阴陵泉" target="子宫脱垂">
+  <data key="d6">7.0</data>
+  <data key="d7">阴陵泉对侧拇指按压法调节脾经湿滞</data>
+  <data key="d8">经络调节,脾经治疗</data>
+  <data key="d9">chunk-8cbc8c93c5971f54a9f5b3b386be05ed</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625345</data>
+</edge>
+<edge source="阴陵泉" target="美白祛斑">
+  <data key="d6">8.0</data>
+  <data key="d7">阴陵泉通过健脾利湿功能辅助祛斑疗程，改善皮肤代谢环境</data>
+  <data key="d8">健脾祛湿,皮肤代谢</data>
+  <data key="d9">chunk-6d76ee81aa2946631949c43fd43ba0c2</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625535</data>
+</edge>
+<edge source="蠡沟" target="月经不调">
+  <data key="d6">9.0</data>
+  <data key="d7">蠡沟穴通过刺激可有效缓解女性月经不调症状</data>
+  <data key="d8">妇科调理,穴位治疗</data>
+  <data key="d9">chunk-854e74f26b5650173f02626ee3b278af</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625343</data>
+</edge>
+<edge source="蠡沟" target="白带过多">
+  <data key="d6">8.0</data>
+  <data key="d7">该穴位对女性生殖系统异常分泌物具有调节作用</data>
+  <data key="d8">中医调理,生殖健康</data>
+  <data key="d9">chunk-854e74f26b5650173f02626ee3b278af</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625343</data>
+</edge>
+<edge source="督脉" target="颈椎病">
+  <data key="d6">9.0</data>
+  <data key="d7">督脉贯穿脊柱，对颈椎病变有直接治疗作用</data>
+  <data key="d8">经脉系统,脊柱健康</data>
+  <data key="d9">chunk-854e74f26b5650173f02626ee3b278af</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625343</data>
+</edge>
+<edge source="督脉" target="癫狂">
+  <data key="d6">7.0</data>
+  <data key="d7">督脉与神志疾病密切相关，可调理精神类病症</data>
+  <data key="d8">中医诊疗,神志病</data>
+  <data key="d9">chunk-854e74f26b5650173f02626ee3b278af</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625343</data>
+</edge>
+<edge source="长强" target="脊柱病变">
+  <data key="d6">8.0</data>
+  <data key="d7">作为督脉起始穴，长强调理脊柱相关疾病的基础穴位</data>
+  <data key="d8">穴位关联,脊柱健康</data>
+  <data key="d9">chunk-854e74f26b5650173f02626ee3b278af</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625343</data>
+</edge>
+<edge source="长强" target="子宫脱垂">
+  <data key="d6">8.0</data>
+  <data key="d7">长强穴艾灸疗法温补下焦元气改善脱垂</data>
+  <data key="d8">元气固摄,温补疗法</data>
+  <data key="d9">chunk-8cbc8c93c5971f54a9f5b3b386be05ed</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625345</data>
+</edge>
+<edge source="中府" target="母乳不畅">
+  <data key="d6">8.0</data>
+  <data key="d7">中府穴位使用四指环形按搡法改善乳腺通畅度</data>
+  <data key="d8">手法治疗,穴位联动</data>
+  <data key="d9">chunk-8cbc8c93c5971f54a9f5b3b386be05ed</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625345</data>
+</edge>
+<edge source="膻中" target="母乳不畅">
+  <data key="d6">10.0</data>
+  <data key="d7">膻中作为核心穴位通过中指按压直接调节乳腺功能</data>
+  <data key="d8">核心穴位,直接干预</data>
+  <data key="d9">chunk-8cbc8c93c5971f54a9f5b3b386be05ed</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625345</data>
+</edge>
+<edge source="膻中" target="经前乳胀">
+  <data key="d6">8.0</data>
+  <data key="d7">膻中穴作为气会穴位，有效调节胸中气滞引发的乳胀问题</data>
+  <data key="d8">气滞调节,理气宽胸</data>
+  <data key="d9">chunk-6d76ee81aa2946631949c43fd43ba0c2</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625535</data>
+</edge>
+<edge source="大敦" target="慢性盆腔灵">
+  <data key="d6">7.0</data>
+  <data key="d7">大敦穴位用牙签轻压刺激法缓解盆腔慢性炎症</data>
+  <data key="d8">炎症缓解,神经刺激</data>
+  <data key="d9">chunk-8cbc8c93c5971f54a9f5b3b386be05ed</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625345</data>
+</edge>
+<edge source="曲泉" target="慢性盆腔灵">
+  <data key="d6">8.0</data>
+  <data key="d7">曲泉穴位屈膝按揉法改善盆腔血液循环</data>
+  <data key="d8">局部循环,屈膝定位</data>
+  <data key="d9">chunk-8cbc8c93c5971f54a9f5b3b386be05ed</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625345</data>
+</edge>
+<edge source="中极" target="女性复发性尿道炎">
+  <data key="d6">8.0</data>
+  <data key="d7">中极穴位顺时针按揉法预防尿道感染复发</data>
+  <data key="d8">环形手法,预防复发</data>
+  <data key="d9">chunk-8cbc8c93c5971f54a9f5b3b386be05ed</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625345</data>
+</edge>
+<edge source="中极" target="子宫后位">
+  <data key="d6">15.0</data>
+  <data key="d7">中极穴位作为子宫后位治疗的定位基准点&lt;SEP&gt;通过四指顺时针按揉中极穴位促进盆腔血液循环</data>
+  <data key="d8">基准穴位,生殖健康,穴位按摩,解剖定位</data>
+  <data key="d9">chunk-8cbc8c93c5971f54a9f5b3b386be05ed&lt;SEP&gt;chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749626104</data>
+</edge>
+<edge source="中极" target="产后宫缩痛">
+  <data key="d6">9.0</data>
+  <data key="d7">中极穴位通过顺时针按揉直接缓解子宫收缩疼痛</data>
+  <data key="d8">疼痛管理,靶向治疗</data>
+  <data key="d9">chunk-d22f341589c46e49266a22362f0de221</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625808</data>
+</edge>
+<edge source="曲骨" target="女性复发性尿道炎">
+  <data key="d6">7.0</data>
+  <data key="d7">曲骨中指按压法直接作用于泌尿系统</data>
+  <data key="d8">精准按压,靶向治疗</data>
+  <data key="d9">chunk-8cbc8c93c5971f54a9f5b3b386be05ed</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625345</data>
+</edge>
+<edge source="行间" target="女性复发性尿道炎">
+  <data key="d6">6.0</data>
+  <data key="d7">行间穴位食指按压法调节下焦湿热</data>
+  <data key="d8">中医辨证,湿热调理</data>
+  <data key="d9">chunk-8cbc8c93c5971f54a9f5b3b386be05ed</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625345</data>
+</edge>
+<edge source="子宫后位" target="中脘">
+  <data key="d6">7.0</data>
+  <data key="d7">采用艾灶灸中脘穴产生热刺激以增强治疗效果</data>
+  <data key="d8">疼痛管理,艾灸疗法</data>
+  <data key="d9">chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749626104</data>
+</edge>
+<edge source="U.S. Department of Commerce" target="Export Control Policies">
+  <data key="d6">0.9</data>
+  <data key="d7">美国商务部是出口管制政策的主要制定与执行机构</data>
+  <data key="d8">政策制定;监管执行</data>
+  <data key="d9">chunk-8cbc8c93c5971f54a9f5b3b386be05ed</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625345</data>
+</edge>
+<edge source="命门" target="产后腰痛">
+  <data key="d6">8.0</data>
+  <data key="d7">命门穴位采用热敷法改善腰部血液循环以减轻疼痛</data>
+  <data key="d8">局部温通,物理疗法</data>
+  <data key="d9">chunk-d22f341589c46e49266a22362f0de221</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625808</data>
+</edge>
+<edge source="百会" target="神庆">
+  <data key="d6">6.0</data>
+  <data key="d7">两穴位均作用于头部症状缓解，存在功能互补性。</data>
+  <data key="d8">头部治疗,症状缓解</data>
+  <data key="d9">chunk-51ea59980c5c395f2beac9a55119d0f3</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625445</data>
+</edge>
+<edge source="百会" target="乌发美发">
+  <data key="d6">8.0</data>
+  <data key="d7">百会穴促进头部气血循环，为乌发疗法提供营养输送支持</data>
+  <data key="d8">头部供血,营养输送</data>
+  <data key="d9">chunk-6d76ee81aa2946631949c43fd43ba0c2</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625535</data>
+</edge>
+<edge source="百会" target="头痛、头重">
+  <data key="d6">9.0</data>
+  <data key="d7">百会穴是治疗头痛的核心穴位</data>
+  <data key="d8">头部疗法</data>
+  <data key="d9">chunk-9acf13c84c152d550454908bd767f544</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625570</data>
+</edge>
+<edge source="任脉" target="气海">
+  <data key="d6">9.0</data>
+  <data key="d7">气海穴归属于任脉经络系统，是其重要的治疗节点。</data>
+  <data key="d8">疾病调理,经络归属</data>
+  <data key="d9">chunk-51ea59980c5c395f2beac9a55119d0f3</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625445</data>
+</edge>
+<edge source="任脉" target="神阙">
+  <data key="d6">8.0</data>
+  <data key="d7">神阙穴是任脉的重要组成部分，体现经脉结构关联性。</data>
+  <data key="d8">穴位从属,经脉系统</data>
+  <data key="d9">chunk-51ea59980c5c395f2beac9a55119d0f3</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625445</data>
+</edge>
+<edge source="美白祛斑" target="肾俞">
+  <data key="d6">16.0</data>
+  <data key="d7">肾俞作为核心穴位被用于美白祛斑疗法，通过补肾调节内分泌实现皮肤改善&lt;SEP&gt;肾俞穴位的特殊按压方法对皮肤美白有显著效果</data>
+  <data key="d8">全身调理,皮肤改善,穴位应用,美容调理</data>
+  <data key="d9">chunk-6d76ee81aa2946631949c43fd43ba0c2&lt;SEP&gt;chunk-f92e7a0b993726b305b45afe33a767a8</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625677</data>
+</edge>
+<edge source="肾俞" target="乌发美发">
+  <data key="d6">9.0</data>
+  <data key="d7">肾俞通过补肾精作用直接关联头发健康养护，体现中医发为肾之余理论</data>
+  <data key="d8">发质改善,肾精养护</data>
+  <data key="d9">chunk-6d76ee81aa2946631949c43fd43ba0c2</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625535</data>
+</edge>
+<edge source="肾俞" target="痛经、月经周期不规则">
+  <data key="d6">8.0</data>
+  <data key="d7">肾俞穴通过补肾作用调节月经根本机能，体现中医治本思想</data>
+  <data key="d8">机能调节,补肾固本</data>
+  <data key="d9">chunk-6d76ee81aa2946631949c43fd43ba0c2</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625535</data>
+</edge>
+<edge source="肾俞" target="腰背痛">
+  <data key="d6">9.0</data>
+  <data key="d7">肾俞穴通过艾灸疗法直接治疗腰背痛症状</data>
+  <data key="d8">穴位治疗</data>
+  <data key="d9">chunk-9acf13c84c152d550454908bd767f544</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625570</data>
+</edge>
+<edge source="肾俞" target="黑眼圈">
+  <data key="d6">8.0</data>
+  <data key="d7">通过按压肾俞穴位可改善黑眼圈症状</data>
+  <data key="d8">症状缓解,穴位功效</data>
+  <data key="d9">chunk-f92e7a0b993726b305b45afe33a767a8</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625677</data>
+</edge>
+<edge source="肾俞" target="不孕症">
+  <data key="d6">8.0</data>
+  <data key="d7">肾俞穴位采用艾灸疗法强化肾脏功能以助生育</data>
+  <data key="d8">中医理疗,脏腑调理</data>
+  <data key="d9">chunk-d22f341589c46e49266a22362f0de221</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625808</data>
+</edge>
+<edge source="肾俞" target="更年期综合症">
+  <data key="d6">8.0</data>
+  <data key="d7">肾俞穴作为核心穴位之一，用于缓解更年期综合症引发的身体失衡</data>
+  <data key="d8">中医调理,穴位配伍</data>
+  <data key="d9">chunk-4373d166e39a04f4351c5c380f639e0e</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625873</data>
+</edge>
+<edge source="肾俞" target="腰背痛(骨质疏松)">
+  <data key="d6">9.0</data>
+  <data key="d7">艾灸肾俞穴位通过温补阳气改善骨质疏松相关疼痛</data>
+  <data key="d8">温补疗法,骨骼健康</data>
+  <data key="d9">chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749626104</data>
+</edge>
+<edge source="乌发美发" target="风池">
+  <data key="d6">7.0</data>
+  <data key="d7">风池穴疏通胆经气血，改善头发生长微环境</data>
+  <data key="d8">微环境调节,胆经疏通</data>
+  <data key="d9">chunk-6d76ee81aa2946631949c43fd43ba0c2</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625535</data>
+</edge>
+<edge source="风池" target="头晕目眩">
+  <data key="d6">8.0</data>
+  <data key="d7">风池穴按压可显著改善眩晕症状</data>
+  <data key="d8">颈部调理</data>
+  <data key="d9">chunk-9acf13c84c152d550454908bd767f544</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625570</data>
+</edge>
+<edge source="风池" target="颈椎劳损">
+  <data key="d6">9.0</data>
+  <data key="d7">双拇指按压风池穴位直接缓解颈部肌肉紧张</data>
+  <data key="d8">穴位按压,颈部康复</data>
+  <data key="d9">chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749626104</data>
+</edge>
+<edge source="经前乳胀" target="肝俞">
+  <data key="d6">9.0</data>
+  <data key="d7">肝俞穴疏解肝气郁结，直接缓解经前乳房胀痛症状</data>
+  <data key="d8">疏肝解郁,症状缓解</data>
+  <data key="d9">chunk-6d76ee81aa2946631949c43fd43ba0c2</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625535</data>
+</edge>
+<edge source="经前乳胀" target="胃俞">
+  <data key="d6">7.0</data>
+  <data key="d7">胃俞穴通过调和脾胃气机，间接改善乳腺气血循环</data>
+  <data key="d8">气血循环,脾胃调和</data>
+  <data key="d9">chunk-6d76ee81aa2946631949c43fd43ba0c2</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625535</data>
+</edge>
+<edge source="失眠" target="涌泉">
+  <data key="d6">9.0</data>
+  <data key="d7">按压涌泉穴作为治疗失眠的关键手法</data>
+  <data key="d8">穴位调理</data>
+  <data key="d9">chunk-9acf13c84c152d550454908bd767f544</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625570</data>
+</edge>
+<edge source="涌泉" target="不孕症">
+  <data key="d6">7.0</data>
+  <data key="d7">涌泉穴位通过节奏性敲击辅助调节生殖系统功能</data>
+  <data key="d8">反射区刺激,辅助治疗</data>
+  <data key="d9">chunk-d22f341589c46e49266a22362f0de221</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625808</data>
+</edge>
+<edge source="天柱" target="颈椎劳损">
+  <data key="d6">8.0</data>
+  <data key="d7">天柱与风池协同作用强化颈椎劳损治疗效果</data>
+  <data key="d8">协同治疗,穴位组合</data>
+  <data key="d9">chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749626104</data>
+</edge>
+<edge source="太白" target="面瘫(贝尔麻痹)">
+  <data key="d6">8.0</data>
+  <data key="d7">太白穴位叠按调节气血运行，辅助治疗面瘫</data>
+  <data key="d8">气血调理,神经修复</data>
+  <data key="d9">chunk-81ee8bca53e14e3a61632f4a8fac5bd8</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749626003</data>
+</edge>
+<edge source="翳风" target="面瘫(贝尔麻痹)">
+  <data key="d6">9.0</data>
+  <data key="d7">翳风穴位双拇指按压直接作用于面部神经通路</data>
+  <data key="d8">功能恢复,神经刺激</data>
+  <data key="d9">chunk-81ee8bca53e14e3a61632f4a8fac5bd8</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749626003</data>
+</edge>
+<edge source="体质虚弱" target="中脘">
+  <data key="d6">7.0</data>
+  <data key="d7">中脘穴按揉用于增强体质虚弱患者的机能</data>
+  <data key="d8">体质增强</data>
+  <data key="d9">chunk-9acf13c84c152d550454908bd767f544</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625570</data>
+</edge>
+<edge source="中国" target="贸易冲突">
+  <data key="d6">0.9</data>
+  <data key="d7">作为冲突直接参与方，承受美方关税压力并实施对等反制</data>
+  <data key="d8">Conflict Participation,Economic Countermeasures</data>
+  <data key="d9">chunk-9acf13c84c152d550454908bd767f544</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625570</data>
+</edge>
+<edge source="四白" target="黑眼圈">
+  <data key="d6">9.0</data>
+  <data key="d7">四白穴的双指按压是治疗黑眼圈的关键步骤</data>
+  <data key="d8">操作关联,直接治疗</data>
+  <data key="d9">chunk-f92e7a0b993726b305b45afe33a767a8</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625677</data>
+</edge>
+<edge source="四白" target="去皱防皱">
+  <data key="d6">7.0</data>
+  <data key="d7">四白穴位在闭眼前倾姿势下发挥去皱作用</data>
+  <data key="d8">复合功效,多向调理</data>
+  <data key="d9">chunk-f92e7a0b993726b305b45afe33a767a8</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625677</data>
+</edge>
+<edge source="晴明" target="黑眼圈">
+  <data key="d6">7.0</data>
+  <data key="d7">晴明穴位专门针对眼部问题的黑眼圈调理</data>
+  <data key="d8">症状对应,精准定位</data>
+  <data key="d9">chunk-f92e7a0b993726b305b45afe33a767a8</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625677</data>
+</edge>
+<edge source="瞳子髎" target="去皱防皱">
+  <data key="d6">8.0</data>
+  <data key="d7">瞳子髎穴位的中指按压是防皱疗法的重要环节</data>
+  <data key="d8">抗衰老,面部护理</data>
+  <data key="d9">chunk-f92e7a0b993726b305b45afe33a767a8</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625677</data>
+</edge>
+<edge source="人迎" target="去皱防皱">
+  <data key="d6">6.0</data>
+  <data key="d7">人迎穴位的平推手法有效促进皮肤紧致</data>
+  <data key="d8">手法治疗,皮肤年轻化</data>
+  <data key="d9">chunk-f92e7a0b993726b305b45afe33a767a8</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625677</data>
+</edge>
+<edge source="&lt;International Climate Summit&gt;" target="&lt;Dr. Helena Carter&gt;">
+  <data key="d6">1.0</data>
+  <data key="d7">&lt;Dr. Carter delivered the keynote address on renewable energy solutions at the summit&gt;</data>
+  <data key="d8">&lt;participation,leadership&gt;</data>
+  <data key="d9">chunk-f92e7a0b993726b305b45afe33a767a8</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625677</data>
+</edge>
+<edge source="关元" target="不孕症">
+  <data key="d6">9.0</data>
+  <data key="d7">关元穴位作为核心治疗点，通过仰卧按揉法改善不孕症状</data>
+  <data key="d8">疾病干预,穴位主治</data>
+  <data key="d9">chunk-d22f341589c46e49266a22362f0de221</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625808</data>
+</edge>
+<edge source="关元" target="月经量少或量多">
+  <data key="d6">9.0</data>
+  <data key="d7">关元穴被指定用于治疗月经量少或量多的症状，通过特定手法调节生理功能</data>
+  <data key="d8">症状缓解,穴位治疗</data>
+  <data key="d9">chunk-4373d166e39a04f4351c5c380f639e0e</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625873</data>
+</edge>
+<edge source="太冲" target="习惯性流产">
+  <data key="d6">8.0</data>
+  <data key="d7">太冲穴位通过食指按揉疏肝理气以固胎元</data>
+  <data key="d8">保胎疗法,情绪调节</data>
+  <data key="d9">chunk-d22f341589c46e49266a22362f0de221</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625808</data>
+</edge>
+<edge source="太冲" target="输卵管炎">
+  <data key="d6">8.0</data>
+  <data key="d7">食指按揉太冲穴位用于疏肝理气，缓解炎症</data>
+  <data key="d8">消炎,肝经调理</data>
+  <data key="d9">chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749626104</data>
+</edge>
+<edge source="TechCorp" target="GreenEarth">
+  <data key="d6">9.0</data>
+  <data key="d7">Collaborated on organizing the Global Sustainability Summit 2023 to promote environmental awareness.</data>
+  <data key="d8">Collaboration,Sustainability</data>
+  <data key="d9">chunk-d22f341589c46e49266a22362f0de221</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625808</data>
+</edge>
+<edge source="TechCorp" target="John Doe">
+  <data key="d6">10.0</data>
+  <data key="d7">John Doe serves as CEO, driving TechCorp's strategic focus on sustainability.</data>
+  <data key="d8">Corporate Governance,Leadership</data>
+  <data key="d9">chunk-d22f341589c46e49266a22362f0de221</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625808</data>
+</edge>
+<edge source="GreenEarth" target="Jane Smith">
+  <data key="d6">8.0</data>
+  <data key="d7">Jane Smith leads partnership efforts at GreenEarth, enabling alliances like the one with TechCorp.</data>
+  <data key="d8">Advocacy,Management</data>
+  <data key="d9">chunk-d22f341589c46e49266a22362f0de221</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625808</data>
+</edge>
+<edge source="Global Sustainability Summit 2023" target="New York">
+  <data key="d6">7.0</data>
+  <data key="d7">The summit was hosted in New York, leveraging its infrastructure and global influence.</data>
+  <data key="d8">Event Hosting,Location</data>
+  <data key="d9">chunk-d22f341589c46e49266a22362f0de221</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625808</data>
+</edge>
+<edge source="水泉" target="贫血">
+  <data key="d6">7.0</data>
+  <data key="d7">水泉穴采用艾灸疗法直接针对贫血症状进行气血调理</data>
+  <data key="d8">气血调节,艾灸疗法</data>
+  <data key="d9">chunk-4373d166e39a04f4351c5c380f639e0e</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625873</data>
+</edge>
+<edge source="次髎" target="腰膝寒冷">
+  <data key="d6">8.0</data>
+  <data key="d7">次髎穴通过温灸器持续温灸，改善腰膝寒冷症状</data>
+  <data key="d8">局部调理,温灸疗法</data>
+  <data key="d9">chunk-4373d166e39a04f4351c5c380f639e0e</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625873</data>
+</edge>
+<edge source="膈俞" target="妊娠反应">
+  <data key="d6">6.0</data>
+  <data key="d7">膈俞穴通过体重加压法缓解妊娠反应，体现穴位与体位的协同作用</data>
+  <data key="d8">体位疗法,压力刺激</data>
+  <data key="d9">chunk-4373d166e39a04f4351c5c380f639e0e</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749625873</data>
+</edge>
+<edge source="下关" target="颞下颌关节紊乱综合征">
+  <data key="d6">8.0</data>
+  <data key="d7">下关穴位顶压改善下颌关节活动功能</data>
+  <data key="d8">关节调理,功能障碍缓解</data>
+  <data key="d9">chunk-81ee8bca53e14e3a61632f4a8fac5bd8</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749626003</data>
+</edge>
+<edge source="慢性咽炎" target="大椎">
+  <data key="d6">9.0</data>
+  <data key="d7">大椎穴位按压缓解咽喉炎症，属直接治疗手段</data>
+  <data key="d8">局部治疗,炎症缓解</data>
+  <data key="d9">chunk-81ee8bca53e14e3a61632f4a8fac5bd8</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749626003</data>
+</edge>
+<edge source="便秘" target="大巨">
+  <data key="d6">9.0</data>
+  <data key="d7">大巨穴位按压促进肠道蠕动以缓解便秘</data>
+  <data key="d8">功能促进,物理刺激</data>
+  <data key="d9">chunk-81ee8bca53e14e3a61632f4a8fac5bd8</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749626003</data>
+</edge>
+<edge source="落枕" target="肺俞">
+  <data key="d6">7.0</data>
+  <data key="d7">中指按揉肺俞穴位通过调节呼吸系统改善颈部气血</data>
+  <data key="d8">急症处理,气血循环</data>
+  <data key="d9">chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749626104</data>
+</edge>
+<edge source="落枕" target="身柱">
+  <data key="d6">8.0</data>
+  <data key="d7">大范围环形按揉身柱穴位以快速恢复颈部活动能力</data>
+  <data key="d8">动态按摩,活动度恢复</data>
+  <data key="d9">chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749626104</data>
+</edge>
+<edge source="落枕" target="承筋">
+  <data key="d6">9.0</data>
+  <data key="d7">温灸承筋穴位通过热效应缓解肌肉痉挛疼痛</data>
+  <data key="d8">温灸疗法,肌肉放松</data>
+  <data key="d9">chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749626104</data>
+</edge>
+<edge source="肩周炎" target="巨骨">
+  <data key="d6">8.0</data>
+  <data key="d7">中指按揉巨骨穴位针对肩关节前侧疼痛进行缓解</data>
+  <data key="d8">炎症缓解,精准定位</data>
+  <data key="d9">chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749626104</data>
+</edge>
+<edge source="肩周炎" target="肩髃">
+  <data key="d6">9.0</data>
+  <data key="d7">四指环形按揉肩髃穴位改善肩关节活动范围</data>
+  <data key="d8">关节活动度,手法治疗</data>
+  <data key="d9">chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749626104</data>
+</edge>
+<edge source="肩周炎" target="肩贞">
+  <data key="d6">7.0</data>
+  <data key="d7">小范围按揉肩贞穴位处理肩关节后侧粘连问题</data>
+  <data key="d8">局部治疗,粘连松解</data>
+  <data key="d9">chunk-58278163a4a76e8f700f4fdf9445477d</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1749626104</data>
+</edge>
+</graph></graphml>
