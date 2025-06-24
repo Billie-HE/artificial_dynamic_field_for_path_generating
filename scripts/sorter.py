@@ -6,16 +6,17 @@ class sorter:
     def __init__(self):
         with open('config/acupoint_metadata.json','r',encoding='utf-8') as file:
             metadata = json.load(file)
-        self.acupoins_metadata = metadata
+        self.acupoints_metadata = metadata
     
     def _extract_acupoints(self,respnse_from_llm:str)->list[str]:
         pattern = r"[0-9]+\.\s*([\u4e00-\u9fa5]{2,5}穴)"
         matches = re.findall(pattern, respnse_from_llm)
         # 去重 & 排除空值
         unique_names = sorted(set(name for name in matches if name.strip()))
+        print(unique_names)
         return unique_names
     
-    def sort_acupoints(self,respnse_from_llm:str)->list[str]:
+    def sort_acupoints(self,respnse_from_llm:list[str])->list[str]:
         def __filter_acupoints(acupoints:list[str]):
              acupoints_cleaned = []
              matched_keys = []
@@ -25,14 +26,15 @@ class sorter:
                   acupoints_cleaned.append(res)
             #  print(f"{acupoints_cleaned}")
              for name in acupoints_cleaned:
-                keys_filtered = [k for k in self.acupoins_metadata.keys() if name in k]
+                keys_filtered = [k for k in self.acupoints_metadata.keys() if name in k]
                 matched_keys.extend(keys_filtered)
              return matched_keys
         
-        acupoints_filtered = __filter_acupoints(self._extract_acupoints(respnse_from_llm))
-
+        # acupoints_filtered = __filter_acupoints(self._extract_acupoints(respnse_from_llm))
+        # acupoints_filtered = __filter_acupoints(['天宗穴', '肩井穴', '肺俞穴'])
+        acupoints_filtered = __filter_acupoints(respnse_from_llm)
         def __get_coords(name:str):
-             return self.acupoins_metadata[name]["pos"]
+             return self.acupoints_metadata[name]["pos"]
         # print(acupoints_filtered)
         left_group = [pt for pt in acupoints_filtered if __get_coords(pt)[0] < 4]
         right_group = [pt for pt in acupoints_filtered if __get_coords(pt)[0] > 4]
@@ -47,7 +49,7 @@ class sorter:
 
 if __name__ == "__main__":
     mySorter = sorter()
-    print(type(mySorter.acupoins_metadata))
+    print(type(mySorter.acupoints_metadata))
     test_response = "1. 肩井穴:缓解肩颈僵硬2. 天宗穴:放松背部肌肉3. 肺俞穴:增强肺功能"
-    # pts_sorted = mySorter.sort_acupoints(test_response)
-    # print(pts_sorted)
+    pts_sorted = mySorter.sort_acupoints(test_response)
+    print(pts_sorted)

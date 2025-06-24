@@ -1,6 +1,6 @@
-from APF_global_demo import GaussianSchedule,GaussianPathSchedule,TimedGaussianSchedule,FieldScheduler,Agent,Visualizer
+from scripts.APF_global_demo import GaussianSchedule,GaussianPathSchedule,TimedGaussianSchedule,FieldScheduler,Agent,Visualizer
 import numpy as np
-from sorter import sorter
+from scripts.sorter import sorter
 import matplotlib.pyplot as plt
 plt.rcParams['font.sans-serif'] = ['SimHei']  # 中文黑体（Windows/Linux）
 plt.rcParams['axes.unicode_minus'] = False   # 正确显示负号

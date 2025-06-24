@@ -50,24 +50,27 @@ class MassageAcupointRAG:
         response = await self.rag.aquery(user_query, param)
         acupoints = self.extract_acupoint_list(str(response))
         return str(response), acupoints
+    async def shutdown(self):
+        await self.rag.finalize_storages()
     
 if __name__ == "__main__":
     async def main():
         rag_client = MassageAcupointRAG(
             working_dir="C:/Users/ZIWEI/Documents/work/向量化/CoreRAG/Massage_10216"
         )
-        await rag_client.initialize()
+        try:
+            await rag_client.initialize()
 
-        query = (
-            "我的大腿有些酸痛，请给出一些分布于腿的重点按摩穴位。"
-            "在回答的最后，将重点穴位罗列为方便python脚本读取的list形式['XX穴','XX穴', ...]"
-        )
+            query = (
+                "我的大腿有些酸痛，请给出一些分布于腿的重点按摩穴位。"
+                "在回答的最后，将重点穴位罗列为方便python脚本读取的list形式['XX穴','XX穴', ...]"
+            )
 
-        response, acupoints = await rag_client.query_acupoints(query)
+            response, acupoints = await rag_client.query_acupoints(query)
+            print(response)
+            print(acupoints)
 
-        print("\n=== RAG 回答 ===")
-        print(response)
-        print("\n=== 提取的穴位列表 ===")
-        print(acupoints)
-
+        finally:
+            # 手动清理资源
+            await rag_client.shutdown()
     asyncio.run(main())
