@@ -174,12 +174,12 @@ def main():
         t_end=40,
         hold_final=True
     ),
-    # GaussianPathSchedule(
-    #     start=START,
-    #     end=GOAL,
-    #     height_fn=lambda t: -3,
-    #     sigma=1.5
-    # )
+    GaussianPathSchedule(
+        start=START,
+        end=GOAL,
+        height_fn=lambda t: -3,
+        sigma=1.5
+    )
     ]
 
     

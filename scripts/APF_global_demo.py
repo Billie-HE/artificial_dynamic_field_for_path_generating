@@ -126,7 +126,7 @@ class Agent:
         self.path = [tuple(self.pos)]
 
     def step(self, Z):
-        x, y = self.pos
+        x, y = map(int, self.pos)
         neighbors = []
         for dx in [-1, 0, 1]:
             for dy in [-1, 0, 1]:
@@ -135,7 +135,15 @@ class Agent:
                 nx, ny = x + dx, y + dy
                 if 0 <= nx < GRID_SIZE[0] and 0 <= ny < GRID_SIZE[1]:
                     neighbors.append(((nx, ny), Z[nx, ny], np.array([dx, dy])))
+
+        if not neighbors:
+            # 没有邻居，保持当前位置
+            self.path.append(tuple(self.pos))
+            return
+
         min_score = float('inf')
+        best = (self.pos, np.array([0, 0]))  # 默认值，防止没有更新
+
         for (nx, ny), z, dvec in neighbors:
             momentum_bonus = -np.dot(dvec, self.velocity)
             score = z + 0.5 * momentum_bonus  # 动量影响因子
@@ -146,7 +154,7 @@ class Agent:
         min_score = float('inf')
         for (nx, ny), z, dvec in neighbors:
             momentum_bonus = -np.dot(dvec, self.velocity)  # 越同方向越优
-            score = z + 0.8 * momentum_bonus
+            score = z + 0.5 * momentum_bonus
             if score < min_score:
                 min_score = score
                 best = ((nx, ny), dvec)

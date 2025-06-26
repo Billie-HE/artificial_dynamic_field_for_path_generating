@@ -1,0 +1,388 @@
+{
+    "back-None-1750922279": {
+        "body_part": "back",
+        "can_delete": true,
+        "choose_task": "finger",
+        "introduction": "back-AI诊断理疗方案",
+        "task_plan": [
+            {
+                "start_point": "天宗左",
+                "end_point": "天宗左",
+                "time": 6,
+                "path": "point"
+            },
+            {
+                "start_point": "天宗左",
+                "end_point": "膏肓左",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "膏肓左",
+                "end_point": "膏肓左",
+                "time": 1,
+                "path": "point"
+            },
+            {
+                "start_point": "膏肓左",
+                "end_point": "魄户左",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "魄户左",
+                "end_point": "魄户左",
+                "time": 4,
+                "path": "point"
+            },
+            {
+                "start_point": "魄户左",
+                "end_point": "肺俞左",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "肺俞左",
+                "end_point": "肺俞左",
+                "time": 35,
+                "path": "point"
+            },
+            {
+                "start_point": "肺俞左",
+                "end_point": "厥阴左俞",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "厥阴左俞",
+                "end_point": "厥阴左俞",
+                "time": 5,
+                "path": "point"
+            },
+            {
+                "start_point": "厥阴左俞",
+                "end_point": "心俞左",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "心俞左",
+                "end_point": "心俞左",
+                "time": 5,
+                "path": "point"
+            },
+            {
+                "start_point": "心俞左",
+                "end_point": "督俞左",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "督俞左",
+                "end_point": "督俞左",
+                "time": 5,
+                "path": "point"
+            },
+            {
+                "start_point": "督俞左",
+                "end_point": "膈俞左",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "膈俞左",
+                "end_point": "膈俞左",
+                "time": 5,
+                "path": "point"
+            },
+            {
+                "start_point": "膈俞左",
+                "end_point": "肝俞左",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "肝俞左",
+                "end_point": "肝俞左",
+                "time": 5,
+                "path": "point"
+            },
+            {
+                "start_point": "肝俞左",
+                "end_point": "胆俞左",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "胆俞左",
+                "end_point": "胆俞左",
+                "time": 5,
+                "path": "point"
+            },
+            {
+                "start_point": "胆俞左",
+                "end_point": "脾俞左",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "脾俞左",
+                "end_point": "脾俞左",
+                "time": 5,
+                "path": "point"
+            },
+            {
+                "start_point": "脾俞左",
+                "end_point": "胃俞左",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "胃俞左",
+                "end_point": "胃俞左",
+                "time": 5,
+                "path": "point"
+            },
+            {
+                "start_point": "胃俞左",
+                "end_point": "三焦左俞",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "三焦左俞",
+                "end_point": "三焦左俞",
+                "time": 5,
+                "path": "point"
+            },
+            {
+                "start_point": "三焦左俞",
+                "end_point": "肾俞左",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "肾俞左",
+                "end_point": "肾俞左",
+                "time": 41,
+                "path": "point"
+            },
+            {
+                "start_point": "肾俞左",
+                "end_point": "气海左俞",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "气海左俞",
+                "end_point": "气海左俞",
+                "time": 5,
+                "path": "point"
+            },
+            {
+                "start_point": "气海左俞",
+                "end_point": "大肠左俞",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "大肠左俞",
+                "end_point": "大肠左俞",
+                "time": 11,
+                "path": "point"
+            },
+            {
+                "start_point": "大肠左俞",
+                "end_point": "天宗右",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "天宗右",
+                "end_point": "天宗右",
+                "time": 6,
+                "path": "point"
+            },
+            {
+                "start_point": "天宗右",
+                "end_point": "膏肓右",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "膏肓右",
+                "end_point": "膏肓右",
+                "time": 1,
+                "path": "point"
+            },
+            {
+                "start_point": "膏肓右",
+                "end_point": "魄户右",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "魄户右",
+                "end_point": "魄户右",
+                "time": 4,
+                "path": "point"
+            },
+            {
+                "start_point": "魄户右",
+                "end_point": "肺俞右",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "肺俞右",
+                "end_point": "肺俞右",
+                "time": 35,
+                "path": "point"
+            },
+            {
+                "start_point": "肺俞右",
+                "end_point": "厥阴右俞",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "厥阴右俞",
+                "end_point": "厥阴右俞",
+                "time": 5,
+                "path": "point"
+            },
+            {
+                "start_point": "厥阴右俞",
+                "end_point": "心俞右",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "心俞右",
+                "end_point": "心俞右",
+                "time": 5,
+                "path": "point"
+            },
+            {
+                "start_point": "心俞右",
+                "end_point": "督俞右",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "督俞右",
+                "end_point": "督俞右",
+                "time": 5,
+                "path": "point"
+            },
+            {
+                "start_point": "督俞右",
+                "end_point": "膈俞右",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "膈俞右",
+                "end_point": "膈俞右",
+                "time": 5,
+                "path": "point"
+            },
+            {
+                "start_point": "膈俞右",
+                "end_point": "肝俞右",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "肝俞右",
+                "end_point": "肝俞右",
+                "time": 5,
+                "path": "point"
+            },
+            {
+                "start_point": "肝俞右",
+                "end_point": "胆俞右",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "胆俞右",
+                "end_point": "胆俞右",
+                "time": 5,
+                "path": "point"
+            },
+            {
+                "start_point": "胆俞右",
+                "end_point": "脾俞右",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "脾俞右",
+                "end_point": "脾俞右",
+                "time": 5,
+                "path": "point"
+            },
+            {
+                "start_point": "脾俞右",
+                "end_point": "胃俞右",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "胃俞右",
+                "end_point": "胃俞右",
+                "time": 5,
+                "path": "point"
+            },
+            {
+                "start_point": "胃俞右",
+                "end_point": "三焦右俞",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "三焦右俞",
+                "end_point": "三焦右俞",
+                "time": 5,
+                "path": "point"
+            },
+            {
+                "start_point": "三焦右俞",
+                "end_point": "肾俞右",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "肾俞右",
+                "end_point": "肾俞右",
+                "time": 41,
+                "path": "point"
+            },
+            {
+                "start_point": "肾俞右",
+                "end_point": "气海右俞",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "气海右俞",
+                "end_point": "气海右俞",
+                "time": 5,
+                "path": "point"
+            },
+            {
+                "start_point": "气海右俞",
+                "end_point": "大肠右俞",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "大肠右俞",
+                "end_point": "大肠右俞",
+                "time": 11,
+                "path": "point"
+            }
+        ]
+    }
+}
