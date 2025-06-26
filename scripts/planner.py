@@ -224,19 +224,29 @@ class planner():
             body_part = f"AI诊疗按摩部位"
 
         task_plan = []
+
+        is_line_mode = massage_head in {'thermotherapy','stone'}
+        
         for i in range(len(queue)):
             name, stay_time = queue[i]
-            # 添加停留任务 AA、BB、CC...
-            task_plan.append({
-                "start_point": name,
-                "end_point": name,
-                "time": stay_time,
-                "path": "point"
-            })
-
+            
+            if not is_line_mode:
+                # 点按模式，添加停留任务AA,BB...
+                # 添加停留任务 AA、BB、CC...
+                task_plan.append({
+                    "start_point": name,
+                    "end_point": name,
+                    "time": stay_time,
+                    "path": "point"
+                })
+            # 判断是否需要跳跃
             # 添加移动任务 AB、BC、CD...，除了最后一个点不需要转移
             if i < len(queue) - 1:
                 next_name = queue[i + 1][0]
+                # 跳过跳跃点的移动任务
+                if name == self.jump_pos_name:
+                    print(f"跳过{name}->{next_name}的移动任务")
+                    continue
                 task_plan.append({
                     "start_point": name,
                     "end_point": next_name,

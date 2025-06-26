@@ -1,0 +1,46 @@
+{
+    "waist-thermotherapy-1750936616": {
+        "body_part": "waist",
+        "can_delete": true,
+        "choose_task": "thermotherapy",
+        "introduction": "waist-AI诊断理疗方案",
+        "task_plan": [
+            {
+                "start_point": "肾俞左",
+                "end_point": "气海左俞",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "气海左俞",
+                "end_point": "大肠左俞",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "大肠左俞",
+                "end_point": "关元左俞",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "肾俞右",
+                "end_point": "气海右俞",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "气海右俞",
+                "end_point": "大肠右俞",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "大肠右俞",
+                "end_point": "关元右俞",
+                "time": null,
+                "path": "line"
+            }
+        ]
+    }
+}

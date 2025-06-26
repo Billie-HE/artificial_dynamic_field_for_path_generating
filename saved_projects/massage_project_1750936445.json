@@ -1,0 +1,9 @@
+{
+    "waist-thermotherapy-1750936445": {
+        "body_part": "waist",
+        "can_delete": true,
+        "choose_task": "thermotherapy",
+        "introduction": "waist-AI诊断理疗方案",
+        "task_plan": []
+    }
+}

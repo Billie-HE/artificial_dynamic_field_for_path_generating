@@ -1,0 +1,9 @@
+{
+    "shoulder-thermotherapy-1750937048": {
+        "body_part": "shoulder",
+        "can_delete": true,
+        "choose_task": "thermotherapy",
+        "introduction": "shoulder-AI诊断理疗方案",
+        "task_plan": []
+    }
+}

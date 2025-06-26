@@ -16,7 +16,7 @@ DEEPSEEK_API_BASE = "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/comp
 QWEN_API_BASE = "https://dashscope.aliyuncs.com/compatible-mode/v1/embeddings"
 QWEN_EMBEDDING_MODEL = "text-embedding-v4"
 # DEEPSEEK_CHAT_MODEL = "deepseek-reasoner"
-DEEPSEEK_CHAT_MODEL = "deepseek-r1"
+DEEPSEEK_CHAT_MODEL = "deepseek-v3"
 
 def split_text_into_chunks(text: str, max_tokens=200, overlap=50) -> list[str]:
     """将长文本按最大 token 分块并加重叠"""

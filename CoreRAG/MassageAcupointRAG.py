@@ -46,7 +46,7 @@ class MassageAcupointRAG:
         :param user_query: 用户输入的自然语言请求
         :return: (完整LLM回复, 穴位列表)
         """
-        param = QueryParam(mode='global', only_need_context=False)
+        param = QueryParam(mode='naive', only_need_context=False)
         response = await self.rag.aquery(user_query, param)
         acupoints = self.extract_acupoint_list(str(response))
         return str(response), acupoints

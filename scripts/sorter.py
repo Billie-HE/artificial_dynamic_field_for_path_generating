@@ -4,16 +4,20 @@ import numpy as np
 
 class sorter:
     ''' 重点穴位按摩排列器 '''
-    def __init__(self, body_part = 'back'):
+    def __init__(self, body_part = 'back', massage_side = 'both'):
         with open('config/acupoint_metadata.json','r',encoding='utf-8') as file:
             metadata = json.load(file)
         self.acupoints_metadata = metadata
         self.body_part_list = ['back','shoulder','waist']
+        self.massage_side_list = ['left','right','both']
         if body_part in self.body_part_list:       
             self.body_part = body_part # 默认部位为'back'
         else:
             raise ValueError("按摩位置不在可按摩区域")
-    
+        if massage_side in self.massage_side_list:
+            self.massage_side = massage_side # 默认为双边'both'
+        else:
+            raise ValueError("未指定按摩在左侧、右侧或两侧")
     def _extract_acupoints(self,respnse_from_llm:str)->list[str]:
         pattern = r"[0-9]+\.\s*([\u4e00-\u9fa5]{2,5}穴)"
         matches = re.findall(pattern, respnse_from_llm)
@@ -26,8 +30,8 @@ class sorter:
         if self.body_part == 'back':
             allowed_names = []
         if self.body_part == 'shoulder':
-            allowed_names = ["肩中左俞","肩外左俞","秉风左","天宗左","曲垣左","附分左",
-                             "肩中右俞","肩外右俞","秉风右","天宗右","曲垣右","附分右"]
+            allowed_names = ["肩中左俞","肩外左俞","秉风左","天宗左","曲垣左","附分左","大杼左","风门左",
+                             "肩中右俞","肩外右俞","秉风右","天宗右","曲垣右","附分右","大杼右","风门右"]
         if self.body_part == 'waist':
             allowed_names = ["志室左","肓门左","胃仓左","意舍左","阳纲左","胞肓左","气海左俞",
                              "大肠左俞","小肠左俞","中膂左俞","肾俞左","关元左俞","膀胱左俞","白环左俞","秩边左","京门左",
@@ -52,6 +56,14 @@ class sorter:
                 matched_keys.extend(keys_candidates)
              return matched_keys
         acupoints_filtered = __filter_acupoints(respnse_from_llm,allowed_names)
+        # 侧边过滤逻辑
+        if hasattr(self,"massage_side"):
+            if self.massage_side == 'left':
+                acupoints_filtered = [pt for pt in acupoints_filtered if "左" in pt]
+            elif self.massage_side == 'right':
+                acupoints_filtered = [pt for pt in acupoints_filtered if "右" in pt]
+            # 'both'或者无定义的情况下则不做筛选
+        
         def __get_coords(name:str):
              return self.acupoints_metadata[name]["pos"]
 

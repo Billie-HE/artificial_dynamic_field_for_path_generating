@@ -1,0 +1,46 @@
+{
+    "shoulder-thermotherapy-1750938510": {
+        "body_part": "shoulder",
+        "can_delete": true,
+        "choose_task": "thermotherapy",
+        "introduction": "shoulder-AI诊断理疗方案",
+        "task_plan": [
+            {
+                "start_point": "天宗左",
+                "end_point": "魄户左",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "魄户左",
+                "end_point": "附分左",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "附分左",
+                "end_point": "曲垣左",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "天宗右",
+                "end_point": "魄户右",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "魄户右",
+                "end_point": "附分右",
+                "time": null,
+                "path": "line"
+            },
+            {
+                "start_point": "附分右",
+                "end_point": "曲垣右",
+                "time": null,
+                "path": "line"
+            }
+        ]
+    }
+}
